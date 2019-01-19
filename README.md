@@ -1,5 +1,13 @@
 # Awesome Speaker Diarization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Overview
+
+This is a curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.
+
+The purpose of this repo is to organize the world’s resources for speaker diarization, and make them universally accessible and useful.
+
+To add items to this page, simply send a pull request.
+
 ## Publications
 
 ### 2018
