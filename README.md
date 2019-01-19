@@ -50,6 +50,7 @@
 | ---- | -------- | ----------- | ------------ |
 | [SIDEKIT for diarization (s4d)](https://projets-lium.univ-lemans.fr/s4d/) | Python | An open source package extension of SIDEKIT for Speaker diarization. |
 | [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) | Python | Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications. |
+| [AaltoASR](https://github.com/aalto-speech/speaker-diarization) | Python & Perl | Speaker diarization scripts, based on AaltoASR. |
 | [LIUM_SpkDiarization](http://www-lium.univ-lemans.fr/diarization/doku.php/overview) | Java | LIUM_SpkDiarization is a software dedicated to speaker diarization (i.e. speaker segmentation and clustering). It is written in Java, and includes the most recent developments in the domain (as of 2013). |
 
 ### Evaluation
@@ -78,9 +79,9 @@
 
 | Link | Method | Language | Description | Build status |
 | ---- | ------ | -------- | ----------- | ------------ |
-| [Speaker_Verification](https://github.com/Janghyun1230/Speaker_Verification) | d-vector | Python & Tensorflow | Tensorflow implementation of generalized end-to-end loss for speaker verification. |
+| [Speaker_Verification](https://github.com/Janghyun1230/Speaker_Verification) | d-vector | Python & TensorFlow | Tensorflow implementation of generalized end-to-end loss for speaker verification. |
 | [PyTorch_Speaker_Verification](https://github.com/HarryVolek/PyTorch_Speaker_Verification) | d-vector | Python & PyTorch | PyTorch implementation of "Generalized End-to-End Loss for Speaker Verification" by Wan, Li et al. With UIS-RNN integration. |
-| [x-vector-kaldi-tf](https://github.com/hsn-zeinali/x-vector-kaldi-tf) | x-vector | Python & Tensorflow & Perl | Tensorflow implementation of x-vector topology on top of Kaldi recipe. |
+| [x-vector-kaldi-tf](https://github.com/hsn-zeinali/x-vector-kaldi-tf) | x-vector | Python & TensorFlow & Perl | Tensorflow implementation of x-vector topology on top of Kaldi recipe. |
 | [kaldi-ivector](https://github.com/idiap/kaldi-ivector) | i-vector | C++ & Perl |  Extension to Kaldi implementing the standard i-vector hyperparameter estimation and i-vector extraction procedure. |
 | [voxceleb-ivector](https://github.com/swshon/voxceleb-ivector) | i-vector |Perl | Voxceleb1 i-vector based speaker recognition system. |
 
@@ -112,5 +113,6 @@
 ## Products
 
 * [Google Cloud Speech-to-Text API](https://cloud.google.com/speech-to-text/docs/multiple-voices)
-* [Amazon Transcribe](https://aws.amazon.com/transcribe/)
-* [DeepAffects](https://www.deepaffects.com/diarization-api/)
+* [Amazon Transcribe](https://aws.amazon.com/transcribe)
+* [IBM Watson’s Speech To Text API](https://www.ibm.com/watson/services/speech-to-text)
+* [DeepAffects](https://www.deepaffects.com/diarization-api)
