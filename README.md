@@ -77,8 +77,8 @@
 
 ### Speaker embedding
 
-| Link | Method | Language | Description | Build status |
-| ---- | ------ | -------- | ----------- | ------------ |
+| Link | Method | Language | Description |
+| ---- | ------ | -------- | ----------- |
 | [Speaker_Verification](https://github.com/Janghyun1230/Speaker_Verification) | d-vector | Python & TensorFlow | Tensorflow implementation of generalized end-to-end loss for speaker verification. |
 | [PyTorch_Speaker_Verification](https://github.com/HarryVolek/PyTorch_Speaker_Verification) | d-vector | Python & PyTorch | PyTorch implementation of "Generalized End-to-End Loss for Speaker Verification" by Wan, Li et al. With UIS-RNN integration. |
 | [x-vector-kaldi-tf](https://github.com/hsn-zeinali/x-vector-kaldi-tf) | x-vector | Python & TensorFlow & Perl | Tensorflow implementation of x-vector topology on top of Kaldi recipe. |
