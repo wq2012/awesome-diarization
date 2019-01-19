@@ -46,50 +46,43 @@
 
 ### Framework
 
-* [SIDEKIT for diarization (s4d)](https://projets-lium.univ-lemans.fr/s4d/):
-  An open source package extension of SIDEKIT for Speaker diarization.
-* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis):
-  Python Audio Analysis Library: Feature Extraction, Classification,
-  Segmentation and Applications.
-* [LIUM_SpkDiarization](http://www-lium.univ-lemans.fr/diarization/doku.php/overview):
-  LIUM_SpkDiarization is a software dedicated to speaker diarization
-  (i.e. speaker segmentation and clustering). It is written in Java,
-  and includes the most recent developments in the domain (as of 2013).
+| Link | Language | Description | Build status |
+| ---- | -------- | ----------- | ------------ |
+| [SIDEKIT for diarization (s4d)](https://projets-lium.univ-lemans.fr/s4d/) | Python | An open source package extension of SIDEKIT for Speaker diarization. |
+| [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) | Python | Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications. |
+| [LIUM_SpkDiarization](http://www-lium.univ-lemans.fr/diarization/doku.php/overview) | Java | LIUM_SpkDiarization is a software dedicated to speaker diarization (i.e. speaker segmentation and clustering). It is written in Java, and includes the most recent developments in the domain (as of 2013). |
 
 ### Evaluation
 
-* [pyannote-metrics](https://github.com/pyannote/pyannote-metrics): A toolkit
-  for reproducible evaluation, diagnostic, and error analysis of speaker
-  diarization systems.
-* NIST `md-eval.pl` script:
-  * [modified md-eval.pl](http://www1.icsi.berkeley.edu/~knoxm/dia/) by
-    [Mary Tai Knox](http://www1.icsi.berkeley.edu/~knoxm)
-  * [md-eval-v21.pl](https://github.com/jitendrab/btp/blob/master/c_code/single_diag_gaussian_no_viterbi/md-eval-v21.pl)
-    from [jitendra](https://github.com/jitendrab)
-* [dscore](https://github.com/nryant/dscore): Diarization scoring tools.
+| Link | Language | Description | Build status |
+| ---- | -------- | ----------- | ------------ |
+| [pyannote-metrics](https://github.com/pyannote/pyannote-metrics) | Python| A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems. | [![Build](https://travis-ci.org/pyannote/pyannote-metrics.svg?branch=master)](https://travis-ci.org/pyannote/pyannote-metrics) |
+| [modified NIST md-eval.pl](http://www1.icsi.berkeley.edu/~knoxm/dia/) | Perl | From [Mary Tai Knox](http://www1.icsi.berkeley.edu/~knoxm) |
+| [NIST md-eval-v21.pl](https://github.com/jitendrab/btp/blob/master/c_code/single_diag_gaussian_no_viterbi/md-eval-v21.pl) | Perl | From [jitendra](https://github.com/jitendrab)
+| [NIST md-eval-22.pl](https://github.com/nryant/dscore/blob/master/scorelib/md-eval-22.pl) | Perl | From [nryant](https://github.com/nryant) |
+| [dscore](https://github.com/nryant/dscore) | Python & Perl | Diarization scoring tools. |
+| [Sequence Match Accuracy](https://github.com/google/uis-rnn/blob/master/uisrnn/evals.py) | Python | Match the accuracy of two sequences with Hungarian algorithm.
 
 
 ### Clustering
 
-* [uis-rnn](https://github.com/google/uis-rnn): Google's
-  Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm,
-  for Fully Supervised Speaker Diarization
-* [SpectralCluster](https://github.com/wq2012/SpectralCluster): Spectral
-  clustering with affinity matrix refinement operations.
-* [sklearn.cluster](https://scikit-learn.org/stable/modules/clustering.html):
-  scikit-learn clustering algorithms.
-* [PLDA in Python](https://github.com/RaviSoji/plda): Probabilistic Linear
-  Discriminant Analysis & classification, written in Python.
-* [PLDA in C++](https://github.com/mrouvier/plda): Open-source implementation
-  of simplified PLDA (Probabilistic Linear Discriminant Analysis).
+| Link | Language | Description | Build status |
+| ---- | -------- | ----------- | ------------ |
+| [uis-rnn](https://github.com/google/uis-rnn) | Python & PyTorch | Google's Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, for Fully Supervised Speaker Diarization. | [![Build](https://travis-ci.org/google/uis-rnn.svg?branch=master)](https://travis-ci.org/google/uis-rnn) |
+| [SpectralCluster](https://github.com/wq2012/SpectralCluster) | Python | Spectral clustering with affinity matrix refinement operations. | [![Build](https://travis-ci.org/wq2012/SpectralCluster.svg?branch=master)](https://travis-ci.org/wq2012/SpectralCluster) |
+| [sklearn.cluster](https://scikit-learn.org/stable/modules/clustering.html) | Python | scikit-learn clustering algorithms. | [![Build]( https://api.travis-ci.org/scikit-learn/scikit-learn.svg?branch=master)](https://travis-ci.org/scikit-learn/scikit-learn) |
+| [PLDA](https://github.com/RaviSoji/plda) | Python | Probabilistic Linear Discriminant Analysis & classification, written in Python. |
+| [PLDA](https://github.com/mrouvier/plda) | C++ | Open-source implementation of simplified PLDA (Probabilistic Linear Discriminant Analysis). |
 
 ### Speaker embedding
 
-* [d-vector in TensorFlow](https://github.com/Janghyun1230/Speaker_Verification)
-* [d-vector in PyTorch](https://github.com/HarryVolek/PyTorch_Speaker_Verification)
-* [x-vector in TensorFlow and Kaldi](https://github.com/hsn-zeinali/x-vector-kaldi-tf)
-* [kaldi-ivector](https://github.com/idiap/kaldi-ivector)
-* [voxceleb-ivector](https://github.com/swshon/voxceleb-ivector)
+| Link | Method | Language | Description | Build status |
+| ---- | ------ | -------- | ----------- | ------------ |
+| [Speaker_Verification](https://github.com/Janghyun1230/Speaker_Verification) | d-vector | Python & Tensorflow | Tensorflow implementation of generalized end-to-end loss for speaker verification. |
+| [PyTorch_Speaker_Verification](https://github.com/HarryVolek/PyTorch_Speaker_Verification) | d-vector | Python & PyTorch | PyTorch implementation of "Generalized End-to-End Loss for Speaker Verification" by Wan, Li et al. With UIS-RNN integration. |
+| [x-vector-kaldi-tf](https://github.com/hsn-zeinali/x-vector-kaldi-tf) | x-vector | Python & Tensorflow & Perl | Tensorflow implementation of x-vector topology on top of Kaldi recipe. |
+| [kaldi-ivector](https://github.com/idiap/kaldi-ivector) | i-vector | C++ & Perl |  Extension to Kaldi implementing the standard i-vector hyperparameter estimation and i-vector extraction procedure. |
+| [voxceleb-ivector](https://github.com/swshon/voxceleb-ivector) | i-vector |Perl | Voxceleb1 i-vector based speaker recognition system. |
 
 ## Datasets
 
