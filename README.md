@@ -5,6 +5,9 @@
 ### 2018
 
 * [Fully Supervised Speaker Diarization](https://arxiv.org/abs/1810.04719)
+* [Diarization is Hard: Some Experiences and Lessons Learned for the JHU
+Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf)
+* [JHU Diarization System Description](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-11_Huang.pdf)
 
 ### 2017
 
@@ -64,7 +67,6 @@
 | [dscore](https://github.com/nryant/dscore) | Python & Perl | Diarization scoring tools. |
 | [Sequence Match Accuracy](https://github.com/google/uis-rnn/blob/master/uisrnn/evals.py) | Python | Match the accuracy of two sequences with Hungarian algorithm.
 
-
 ### Clustering
 
 | Link | Language | Description |
@@ -84,6 +86,12 @@
 | [x-vector-kaldi-tf](https://github.com/hsn-zeinali/x-vector-kaldi-tf) | x-vector | Python & TensorFlow & Perl | Tensorflow implementation of x-vector topology on top of Kaldi recipe. |
 | [kaldi-ivector](https://github.com/idiap/kaldi-ivector) | i-vector | C++ & Perl |  Extension to Kaldi implementing the standard i-vector hyperparameter estimation and i-vector extraction procedure. |
 | [voxceleb-ivector](https://github.com/swshon/voxceleb-ivector) | i-vector |Perl | Voxceleb1 i-vector based speaker recognition system. |
+
+### Other
+
+| Link | Language | Description |
+| ---- | -------- | ----------- |
+| [VB Diarization](https://speech.fit.vutbr.cz/software/vb-diarization-eigenvoice-and-hmm-priors) | Python | VB Diarization with Eigenvoice and HMM Priors. |
 
 ## Datasets
 
