@@ -46,8 +46,8 @@
 
 ### Framework
 
-| Link | Language | Description | Build status |
-| ---- | -------- | ----------- | ------------ |
+| Link | Language | Description |
+| ---- | -------- | ----------- |
 | [SIDEKIT for diarization (s4d)](https://projets-lium.univ-lemans.fr/s4d/) | Python | An open source package extension of SIDEKIT for Speaker diarization. |
 | [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) | Python | Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications. |
 | [AaltoASR](https://github.com/aalto-speech/speaker-diarization) | Python & Perl | Speaker diarization scripts, based on AaltoASR. |
@@ -55,9 +55,9 @@
 
 ### Evaluation
 
-| Link | Language | Description | Build status |
-| ---- | -------- | ----------- | ------------ |
-| [pyannote-metrics](https://github.com/pyannote/pyannote-metrics) | Python| A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems. | [![Build](https://travis-ci.org/pyannote/pyannote-metrics.svg?branch=master)](https://travis-ci.org/pyannote/pyannote-metrics) |
+| Link | Language | Description |
+| ---- | -------- | ----------- |
+| [pyannote-metrics](https://github.com/pyannote/pyannote-metrics) [![Build](https://travis-ci.org/pyannote/pyannote-metrics.svg?branch=master)](https://travis-ci.org/pyannote/pyannote-metrics) | Python| A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems. |
 | [modified NIST md-eval.pl](http://www1.icsi.berkeley.edu/~knoxm/dia/) | Perl | From [Mary Tai Knox](http://www1.icsi.berkeley.edu/~knoxm) |
 | [NIST md-eval-v21.pl](https://github.com/jitendrab/btp/blob/master/c_code/single_diag_gaussian_no_viterbi/md-eval-v21.pl) | Perl | From [jitendra](https://github.com/jitendrab)
 | [NIST md-eval-22.pl](https://github.com/nryant/dscore/blob/master/scorelib/md-eval-22.pl) | Perl | From [nryant](https://github.com/nryant) |
@@ -67,11 +67,11 @@
 
 ### Clustering
 
-| Link | Language | Description | Build status |
-| ---- | -------- | ----------- | ------------ |
-| [uis-rnn](https://github.com/google/uis-rnn) | Python & PyTorch | Google's Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, for Fully Supervised Speaker Diarization. | [![Build](https://travis-ci.org/google/uis-rnn.svg?branch=master)](https://travis-ci.org/google/uis-rnn) |
-| [SpectralCluster](https://github.com/wq2012/SpectralCluster) | Python | Spectral clustering with affinity matrix refinement operations. | [![Build](https://travis-ci.org/wq2012/SpectralCluster.svg?branch=master)](https://travis-ci.org/wq2012/SpectralCluster) |
-| [sklearn.cluster](https://scikit-learn.org/stable/modules/clustering.html) | Python | scikit-learn clustering algorithms. | [![Build]( https://api.travis-ci.org/scikit-learn/scikit-learn.svg?branch=master)](https://travis-ci.org/scikit-learn/scikit-learn) |
+| Link | Language | Description |
+| ---- | -------- | ----------- |
+| [uis-rnn](https://github.com/google/uis-rnn) [![Build](https://travis-ci.org/google/uis-rnn.svg?branch=master)](https://travis-ci.org/google/uis-rnn) | Python & PyTorch | Google's Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, for Fully Supervised Speaker Diarization. |
+| [SpectralCluster](https://github.com/wq2012/SpectralCluster) [![Build](https://travis-ci.org/wq2012/SpectralCluster.svg?branch=master)](https://travis-ci.org/wq2012/SpectralCluster) | Python | Spectral clustering with affinity matrix refinement operations. |
+| [sklearn.cluster](https://scikit-learn.org/stable/modules/clustering.html) [![Build]( https://api.travis-ci.org/scikit-learn/scikit-learn.svg?branch=master)](https://travis-ci.org/scikit-learn/scikit-learn) | Python | scikit-learn clustering algorithms. |
 | [PLDA](https://github.com/RaviSoji/plda) | Python | Probabilistic Linear Discriminant Analysis & classification, written in Python. |
 | [PLDA](https://github.com/mrouvier/plda) | C++ | Open-source implementation of simplified PLDA (Probabilistic Linear Discriminant Analysis). |
 
