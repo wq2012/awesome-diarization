@@ -48,6 +48,9 @@
 
 * [SIDEKIT for diarization (s4d)](https://projets-lium.univ-lemans.fr/s4d/):
   An open source package extension of SIDEKIT for Speaker diarization.
+* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis):
+  Python Audio Analysis Library: Feature Extraction, Classification,
+  Segmentation and Applications.
 * [LIUM_SpkDiarization](http://www-lium.univ-lemans.fr/diarization/doku.php/overview):
   LIUM_SpkDiarization is a software dedicated to speaker diarization
   (i.e. speaker segmentation and clustering). It is written in Java,
