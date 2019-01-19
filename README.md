@@ -30,11 +30,19 @@
 
 * [PLDA-based Clustering for Speaker Diarization of Broadcast Streams](https://pdfs.semanticscholar.org/0175/a752c5c72cadc7c0b899fd15f2f6b93c3335.pdf)
 
+### 2010
+
+* [Speaker diarization: A review of recent research](http://www.eurecom.fr/fr/publication/3152/download/mm-publi-3152.pdf)
+
 ### 2008
 
 * [Stream-based speaker segmentation using speaker factors and eigenvoices](https://www.researchgate.net/profile/Pietro_Laface/publication/224313019_Stream-based_speaker_segmentation_using_speaker_factors_and_eigenvoices/links/5770fe8608ae10de639dc121.pdf)
 
-## Source code
+### 2006
+
+* [An overview of automatic speaker diarization systems](https://alize.univ-avignon.fr/doc/publis/06_IEEE-TASP_Tranter.pdf)
+
+## Software
 
 ### Framework
 
@@ -65,6 +73,12 @@
   for Fully Supervised Speaker Diarization
 * [SpectralCluster](https://github.com/wq2012/SpectralCluster): Spectral
   clustering with affinity matrix refinement operations.
+* [sklearn.cluster](https://scikit-learn.org/stable/modules/clustering.html):
+  scikit-learn clustering algorithms.
+* [PLDA in Python](https://github.com/RaviSoji/plda): Probabilistic Linear
+  Discriminant Analysis & classification, written in Python.
+* [PLDA in C++](https://github.com/mrouvier/plda): Open-source implementation
+  of simplified PLDA (Probabilistic Linear Discriminant Analysis).
 
 ### Speaker embedding
 
@@ -73,6 +87,18 @@
 * [x-vector in TensorFlow and Kaldi](https://github.com/hsn-zeinali/x-vector-kaldi-tf)
 * [kaldi-ivector](https://github.com/idiap/kaldi-ivector)
 * [voxceleb-ivector](https://github.com/swshon/voxceleb-ivector)
+
+## Datasets
+
+* [2000 NIST Speaker Recognition Evaluation](https://catalog.ldc.upenn.edu/LDC2001S97)
+  * Disk-6 is Switchboard [[ground truth](https://github.com/google/speaker-id/tree/master/publications/LstmDiarization/evaluation/NIST_SRE2000/Disk6_ground_truth)]
+  * Disk-8 is CALLHOME [[ground truth](https://github.com/google/speaker-id/tree/master/publications/LstmDiarization/evaluation/NIST_SRE2000/Disk8_ground_truth)]
+* [2003 NIST Rich Transcription Evaluation Data](https://catalog.ldc.upenn.edu/LDC2007S10)
+* [CALLHOME American English Speech](https://catalog.ldc.upenn.edu/LDC97S42)
+  * [CH109 whitelist](https://github.com/google/speaker-id/blob/master/publications/LstmDiarization/evaluation/CALLHOME_American_English/ch109_whitelist.txt)
+* [ICSI Corpus](http://groups.inf.ed.ac.uk/ami/icsi/)
+* [AMI Corpus](http://groups.inf.ed.ac.uk/ami/corpus/)
+* [Fisher English Training Speech](https://catalog.ldc.upenn.edu/LDC2004S13)
 
 ## Other learning materials
 
