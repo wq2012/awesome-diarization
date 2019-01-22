@@ -133,7 +133,9 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 ## Products
 
-* [Google Cloud Speech-to-Text API](https://cloud.google.com/speech-to-text/docs/multiple-voices)
-* [Amazon Transcribe](https://aws.amazon.com/transcribe)
-* [IBM Watson’s Speech To Text API](https://www.ibm.com/watson/services/speech-to-text)
-* [DeepAffects](https://www.deepaffects.com/diarization-api)
+| Company | Product |
+| ------- | ------- |
+| Google  | [Google Cloud Speech-to-Text API](https://cloud.google.com/speech-to-text/docs/multiple-voices) |
+| Amazon  | [Amazon Transcribe](https://aws.amazon.com/transcribe) |
+| IBM     | [Watson Speech To Text API](https://www.ibm.com/watson/services/speech-to-text) |
+| DeepAffects | [Speaker Diarization API](https://www.deepaffects.com/diarization-api) |
