@@ -10,7 +10,7 @@ Just send a pull request, and I will review and merge it.
 
 For new items, please follow the existing format.
 
-### Publications.
+### Publications
 
 Only include complete papers that are directly related to speaker diarization.
 
@@ -21,7 +21,7 @@ For example, these will **NOT** be accepted:
 * Media post.
 * Low quality paper without experiments and evaluations.
 * Publications not directly related to spealer diarization:
-  * ML focused papers.
+  * Pure ML papers.
   * Speaker recognition papers.
 
 ### Software
