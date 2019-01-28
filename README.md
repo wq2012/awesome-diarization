@@ -71,6 +71,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | [kaldi-asr](https://github.com/kaldi-asr/kaldi/tree/master/egs/callhome_diarization) [![Build](https://travis-ci.com/kaldi-asr/kaldi.svg?branch=master)](https://travis-ci.com/kaldi-asr/kaldi) | Bash | Example scripts for speaker diarization on a portion of CALLHOME used in the 2000 NIST speaker recognition evaluation. |
 | [Alize LIA_SpkSeg](https://alize.univ-avignon.fr/) | C++ | ALIZÉ is an opensource platform for speaker recognition. LIA_SpkSeg is the tools for speaker diarization. |
 | [pyannote-audio](https://github.com/pyannote/pyannote-audio) | Python | Neural building blocks for speaker diarization: speech activity detection, speaker change detection, speaker embedding. |
+| [pyBK](https://github.com/josepatino/pyBK) | Python | Speaker diarization using binary key speaker modelling. Computationally light solution that does not require external training data. |
 
 ### Evaluation
 
