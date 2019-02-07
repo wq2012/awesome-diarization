@@ -78,7 +78,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) | Python | Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications. |
 | [AaltoASR](https://github.com/aalto-speech/speaker-diarization) | Python & Perl | Speaker diarization scripts, based on AaltoASR. |
 | [LIUM_SpkDiarization](http://www-lium.univ-lemans.fr/diarization/doku.php/overview) | Java | LIUM_SpkDiarization is a software dedicated to speaker diarization (i.e. speaker segmentation and clustering). It is written in Java, and includes the most recent developments in the domain (as of 2013). |
-| [kaldi-asr](https://github.com/kaldi-asr/kaldi/tree/master/egs/callhome_diarization) [![Build](https://travis-ci.com/kaldi-asr/kaldi.svg?branch=master)](https://travis-ci.com/kaldi-asr/kaldi) | Bash | Example scripts for speaker diarization on a portion of CALLHOME used in the 2000 NIST speaker recognition evaluation. |
+| [kaldi-asr](https://github.com/kaldi-asr/kaldi/tree/master/egs/callhome_diarization) [![Build Status](https://travis-ci.com/kaldi-asr/kaldi.svg?branch=master)](https://travis-ci.com/kaldi-asr/kaldi) | Bash | Example scripts for speaker diarization on a portion of CALLHOME used in the 2000 NIST speaker recognition evaluation. |
 | [Alize LIA_SpkSeg](https://alize.univ-avignon.fr/) | C++ | ALIZÉ is an opensource platform for speaker recognition. LIA_SpkSeg is the tools for speaker diarization. |
 | [pyannote-audio](https://github.com/pyannote/pyannote-audio) | Python | Neural building blocks for speaker diarization: speech activity detection, speaker change detection, speaker embedding. |
 | [pyBK](https://github.com/josepatino/pyBK) | Python | Speaker diarization using binary key speaker modelling. Computationally light solution that does not require external training data. |
@@ -87,8 +87,8 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 | Link | Language | Description |
 | ---- | -------- | ----------- |
-| [pyannote-metrics](https://github.com/pyannote/pyannote-metrics) [![Build](https://travis-ci.org/pyannote/pyannote-metrics.svg?branch=master)](https://travis-ci.org/pyannote/pyannote-metrics) | Python| A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems. |
-| [SimpleDER](https://github.com/wq2012/SimpleDER) [![Build](https://travis-ci.org/wq2012/SimpleDER.svg?branch=master)](https://travis-ci.org/wq2012/SimpleDER) | Python | A lightweight library to compute Diarization Error Rate (DER). |
+| [pyannote-metrics](https://github.com/pyannote/pyannote-metrics) [![Build Status](https://travis-ci.org/pyannote/pyannote-metrics.svg?branch=master)](https://travis-ci.org/pyannote/pyannote-metrics) | Python| A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems. |
+| [SimpleDER](https://github.com/wq2012/SimpleDER) [![Build Status](https://travis-ci.org/wq2012/SimpleDER.svg?branch=master)](https://travis-ci.org/wq2012/SimpleDER) | Python | A lightweight library to compute Diarization Error Rate (DER). |
 | [modified NIST md-eval.pl](http://www1.icsi.berkeley.edu/~knoxm/dia/) | Perl | From [Mary Tai Knox](http://www1.icsi.berkeley.edu/~knoxm) |
 | [NIST md-eval-v21.pl](https://github.com/jitendrab/btp/blob/master/c_code/single_diag_gaussian_no_viterbi/md-eval-v21.pl) | Perl | From [jitendra](https://github.com/jitendrab)
 | [NIST md-eval-22.pl](https://github.com/nryant/dscore/blob/master/scorelib/md-eval-22.pl) | Perl | From [nryant](https://github.com/nryant) |
@@ -99,9 +99,9 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 | Link | Language | Description |
 | ---- | -------- | ----------- |
-| [uis-rnn](https://github.com/google/uis-rnn) [![Build](https://travis-ci.org/google/uis-rnn.svg?branch=master)](https://travis-ci.org/google/uis-rnn) | Python & PyTorch | Google's Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, for Fully Supervised Speaker Diarization. |
-| [SpectralCluster](https://github.com/wq2012/SpectralCluster) [![Build](https://travis-ci.org/wq2012/SpectralCluster.svg?branch=master)](https://travis-ci.org/wq2012/SpectralCluster) | Python | Spectral clustering with affinity matrix refinement operations. |
-| [sklearn.cluster](https://scikit-learn.org/stable/modules/clustering.html) [![Build]( https://api.travis-ci.org/scikit-learn/scikit-learn.svg?branch=master)](https://travis-ci.org/scikit-learn/scikit-learn) | Python | scikit-learn clustering algorithms. |
+| [uis-rnn](https://github.com/google/uis-rnn) [![Build Status](https://travis-ci.org/google/uis-rnn.svg?branch=master)](https://travis-ci.org/google/uis-rnn) | Python & PyTorch | Google's Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, for Fully Supervised Speaker Diarization. |
+| [SpectralCluster](https://github.com/wq2012/SpectralCluster) [![Build Status](https://travis-ci.org/wq2012/SpectralCluster.svg?branch=master)](https://travis-ci.org/wq2012/SpectralCluster) | Python | Spectral clustering with affinity matrix refinement operations. |
+| [sklearn.cluster](https://scikit-learn.org/stable/modules/clustering.html) [![Build Status]( https://api.travis-ci.org/scikit-learn/scikit-learn.svg?branch=master)](https://travis-ci.org/scikit-learn/scikit-learn) | Python | scikit-learn clustering algorithms. |
 | [PLDA](https://github.com/RaviSoji/plda) | Python | Probabilistic Linear Discriminant Analysis & classification, written in Python. |
 | [PLDA](https://github.com/mrouvier/plda) | C++ | Open-source implementation of simplified PLDA (Probabilistic Linear Discriminant Analysis). |
 
@@ -119,7 +119,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 | Link | Language | Description |
 | ---- | -------- | ----------- |
-| [VB Diarization](https://speech.fit.vutbr.cz/software/vb-diarization-eigenvoice-and-hmm-priors) | Python | VB Diarization with Eigenvoice and HMM Priors. |
+| [VB Diarization](https://github.com/wq2012/VB_diarization) [![Build Status](https://travis-ci.org/wq2012/VB_diarization.svg?branch=master)](https://travis-ci.org/wq2012/VB_diarization) | Python | VB Diarization with Eigenvoice and HMM Priors. |
 
 ## Datasets
 
