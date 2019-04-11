@@ -1,5 +1,23 @@
 # Awesome Speaker Diarization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Contribution](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/wq2012/awesome-diarization/blob/master/CONTRIBUTING.md)
 
+## Table of contents
+
+* [Overview](#Overview)
+* [Publications](#Publications)
+* [Software](#Software)
+  * [Framework](#Framework)
+  * [Evaluation](#Evaluation)
+  * [Clustering](#Clustering)
+  * [Speaker embedding](#Speaker-embedding)
+  * [Other sotware](#Other-software)
+* [Datasets](#Datasets)
+* [Leaderboards](#Leaderboards)
+* [Other learning materials](#Other-learning-materials)
+  * [Tech blog](#Tech-blog)
+  * [Video tutorials](#Video-tutorials)
+* [Products](#Products)
+
+
 ## Overview
 
 This is a curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.
@@ -115,7 +133,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | [kaldi-ivector](https://github.com/idiap/kaldi-ivector) | i-vector | C++ & Perl |  Extension to Kaldi implementing the standard i-vector hyperparameter estimation and i-vector extraction procedure. |
 | [voxceleb-ivector](https://github.com/swshon/voxceleb-ivector) | i-vector |Perl | Voxceleb1 i-vector based speaker recognition system. |
 
-### Other
+### Other software
 
 | Link | Language | Description |
 | ---- | -------- | ----------- |
