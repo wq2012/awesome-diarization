@@ -100,6 +100,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | [Alize LIA_SpkSeg](https://alize.univ-avignon.fr/) | C++ | ALIZÉ is an opensource platform for speaker recognition. LIA_SpkSeg is the tools for speaker diarization. |
 | [pyannote-audio](https://github.com/pyannote/pyannote-audio) | Python | Neural building blocks for speaker diarization: speech activity detection, speaker change detection, speaker embedding. |
 | [pyBK](https://github.com/josepatino/pyBK) | Python | Speaker diarization using binary key speaker modelling. Computationally light solution that does not require external training data. |
+| [Speaker-Diarization](https://github.com/taylorlu/Speaker-Diarization) | Python | Speaker diarization using uis-rnn and GhostVLAD. An easier way to support openset speakers. |
 
 ### Evaluation
 
