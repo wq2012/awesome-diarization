@@ -28,6 +28,10 @@ To add items to this page, simply send a pull request.
 
 ## Publications
 
+### 2019
+
+* [Speaker diarisation using 2D self-attentive combination of embeddings](https://arxiv.org/abs/1902.03190)
+
 ### 2018
 
 * [Fully Supervised Speaker Diarization](https://arxiv.org/abs/1810.04719)
