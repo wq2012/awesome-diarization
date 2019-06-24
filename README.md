@@ -30,6 +30,7 @@ To add items to this page, simply send a pull request.
 
 ### 2019
 
+* [Meeting Transcription Using Virtual Microphone Arrays](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/DenmarkTechReport-5ccb8b095c8f3.pdf)
 * [Speaker diarisation using 2D self-attentive combination of embeddings](https://arxiv.org/abs/1902.03190)
 
 ### 2018
