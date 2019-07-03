@@ -135,6 +135,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | ---- | ------ | -------- | ----------- |
 | [Speaker_Verification](https://github.com/Janghyun1230/Speaker_Verification) | d-vector | Python & TensorFlow | Tensorflow implementation of generalized end-to-end loss for speaker verification. |
 | [PyTorch_Speaker_Verification](https://github.com/HarryVolek/PyTorch_Speaker_Verification) | d-vector | Python & PyTorch | PyTorch implementation of "Generalized End-to-End Loss for Speaker Verification" by Wan, Li et al. With UIS-RNN integration. |
+| [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | d-vector | Python & PyTorch | Implementation of "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis" (SV2TTS) with a vocoder that works in real-time. |
 | [x-vector-kaldi-tf](https://github.com/hsn-zeinali/x-vector-kaldi-tf) | x-vector | Python & TensorFlow & Perl | Tensorflow implementation of x-vector topology on top of Kaldi recipe. |
 | [kaldi-ivector](https://github.com/idiap/kaldi-ivector) | i-vector | C++ & Perl |  Extension to Kaldi implementing the standard i-vector hyperparameter estimation and i-vector extraction procedure. |
 | [voxceleb-ivector](https://github.com/swshon/voxceleb-ivector) | i-vector |Perl | Voxceleb1 i-vector based speaker recognition system. |
