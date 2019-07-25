@@ -40,6 +40,7 @@ To add items to this page, simply send a pull request.
 Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf)
 * [JHU Diarization System Description](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-11_Huang.pdf)
 * [ODESSA at Albayzin Speaker Diarization Challenge 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-5_Patino.pdf)
+* [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf)
 * [Neural speech turn segmentation and affinity propagation for speaker diarization](https://hal.archives-ouvertes.fr/hal-01912236/)
 * [Multimodal Speaker Segmentation and Diarization using Lexical and Acoustic Cues via Sequence to Sequence Neural Networks](https://arxiv.org/abs/1805.10731)
 
