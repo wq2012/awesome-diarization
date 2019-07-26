@@ -20,7 +20,7 @@ For example, these will **NOT** be accepted:
 * Commercial system technical document.
 * Media post.
 * Low quality paper without experiments and evaluations.
-* Publications not directly related to spealer diarization:
+* Publications not directly related to speaker diarization:
   * Pure ML papers.
   * Speaker recognition papers.
 
@@ -37,5 +37,4 @@ For example, these will **NOT** be accepted:
 
 ### Dataset
 
-A dataset must contain utterances with multiple speakers, and each utterance
-must have time-stamped speaker annotations.
+A diarization dataset must contain utterances with multiple speakers **speaking in turn**, and each utterance must have **time-stamped speaker annotations**.
