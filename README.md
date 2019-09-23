@@ -29,6 +29,8 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 ## Publications
 
 ### 2019
+* [End-to-End Neural Speaker Diarization with Permutation-Free Objectives](https://arxiv.org/abs/1909.05952)
+* [End-to-End Neural Speaker Diarization with Self-attention](https://arxiv.org/abs/1909.06247)
 * [Enhancements for Audio-only Diarization Systems](https://arxiv.org/abs/1909.00082)
 * [LSTM based Similarity Measurement with Spectral Clustering for Speaker Diarization](https://arxiv.org/abs/1907.10393)
 * [Joint Speech Recognition and Speaker Diarization via Sequence Transduction](https://arxiv.org/abs/1907.05337)
