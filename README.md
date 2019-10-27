@@ -29,6 +29,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 ## Publications
 
 ### 2019
+* [Discriminative Neural Clustering for Speaker Diarisation](https://arxiv.org/abs/1910.09703)
 * [End-to-End Neural Speaker Diarization with Permutation-Free Objectives](https://arxiv.org/abs/1909.05952)
 * [End-to-End Neural Speaker Diarization with Self-attention](https://arxiv.org/abs/1909.06247)
 * [Enhancements for Audio-only Diarization Systems](https://arxiv.org/abs/1909.00082)
@@ -128,7 +129,8 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 | Link | Language | Description |
 | ---- | -------- | ----------- |
-| [uis-rnn](https://github.com/google/uis-rnn) ![GitHub stars](https://img.shields.io/github/stars/google/uis-rnn?style=social) [![Build Status](https://travis-ci.org/google/uis-rnn.svg?branch=master)](https://travis-ci.org/google/uis-rnn) | Python & PyTorch | Google's Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, for Fully Supervised Speaker Diarization. |
+| [uis-rnn](https://github.com/google/uis-rnn) ![GitHub stars](https://img.shields.io/github/stars/google/uis-rnn?style=social) [![Build Status](https://travis-ci.org/google/uis-rnn.svg?branch=master)](https://travis-ci.org/google/uis-rnn) | Python & PyTorch | Google's Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, for Fully Supervised Speaker Diarization. This clustering algorithm is **supervised**. |
+| [DNC](https://github.com/FlorianKrey/DNC) ![GitHub stars](https://img.shields.io/github/stars/FlorianKrey/DNC?style=social) | Python & ESPnet | Transformer-based Discriminative Neural Clustering (DNC) for Speaker Diarisation. Like UIS-RNN, it is **supervised**. |
 | [SpectralCluster](https://github.com/wq2012/SpectralCluster) ![GitHub stars](https://img.shields.io/github/stars/wq2012/SpectralCluster?style=social) [![Build Status](https://travis-ci.org/wq2012/SpectralCluster.svg?branch=master)](https://travis-ci.org/wq2012/SpectralCluster) | Python | Spectral clustering with affinity matrix refinement operations. |
 | [sklearn.cluster](https://scikit-learn.org/stable/modules/clustering.html) [![Build Status]( https://api.travis-ci.org/scikit-learn/scikit-learn.svg?branch=master)](https://travis-ci.org/scikit-learn/scikit-learn) | Python | scikit-learn clustering algorithms. |
 | [PLDA](https://github.com/RaviSoji/plda) ![GitHub stars](https://img.shields.io/github/stars/RaviSoji/plda?style=social) | Python | Probabilistic Linear Discriminant Analysis & classification, written in Python. |
