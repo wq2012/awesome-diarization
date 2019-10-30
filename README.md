@@ -29,6 +29,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 ## Publications
 
 ### 2019
+* [Learning deep representations by multilayer bootstrap networks for speaker diarization](https://arxiv.org/abs/1910.10969)
 * [Discriminative Neural Clustering for Speaker Diarisation](https://arxiv.org/abs/1910.09703)
 * [End-to-End Neural Speaker Diarization with Permutation-Free Objectives](https://arxiv.org/abs/1909.05952)
 * [End-to-End Neural Speaker Diarization with Self-attention](https://arxiv.org/abs/1909.06247)
