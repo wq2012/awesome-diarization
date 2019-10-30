@@ -44,7 +44,6 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Fully Supervised Speaker Diarization](https://arxiv.org/abs/1810.04719)
 * [Diarization is Hard: Some Experiences and Lessons Learned for the JHU
 Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf)
-* [JHU Diarization System Description](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-11_Huang.pdf)
 * [ODESSA at Albayzin Speaker Diarization Challenge 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-5_Patino.pdf)
 * [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf)
 * [Neural speech turn segmentation and affinity propagation for speaker diarization](https://hal.archives-ouvertes.fr/hal-01912236/)
