@@ -29,6 +29,8 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 ## Publications
 
 ### 2019
+* [Speaker diarization using latent space clustering in generative adversarial network](https://arxiv.org/abs/1910.11398)
+* [A study of semi-supervised speaker diarization system using gan mixture model](https://arxiv.org/abs/1910.11416)
 * [Learning deep representations by multilayer bootstrap networks for speaker diarization](https://arxiv.org/abs/1910.10969)
 * [Discriminative Neural Clustering for Speaker Diarisation](https://arxiv.org/abs/1910.09703)
 * [End-to-End Neural Speaker Diarization with Permutation-Free Objectives](https://arxiv.org/abs/1909.05952)
