@@ -1,4 +1,4 @@
-# Awesome Speaker Diarization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Contribution](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/wq2012/awesome-diarization/blob/master/CONTRIBUTING.md)
+# Awesome Speaker Diarization [![Financial Contributors on Open Collective](https://opencollective.com/awesome-diarization/all/badge.svg?label=financial+contributors)](https://opencollective.com/awesome-diarization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Contribution](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/wq2012/awesome-diarization/blob/master/CONTRIBUTING.md)
 
 ## Table of contents
 
@@ -206,3 +206,33 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | Amazon  | [Amazon Transcribe](https://aws.amazon.com/transcribe) |
 | IBM     | [Watson Speech To Text API](https://www.ibm.com/watson/services/speech-to-text) |
 | DeepAffects | [Speaker Diarization API](https://www.deepaffects.com/diarization-api) |
+
+## Contributors
+
+### Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/wq2012/awesome-diarization/graphs/contributors"><img src="https://opencollective.com/awesome-diarization/contributors.svg?width=890&button=false" /></a>
+
+### Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/awesome-diarization/contribute)]
+
+#### Individuals
+
+<a href="https://opencollective.com/awesome-diarization"><img src="https://opencollective.com/awesome-diarization/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/awesome-diarization/contribute)]
+
+<a href="https://opencollective.com/awesome-diarization/organization/0/website"><img src="https://opencollective.com/awesome-diarization/organization/0/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-diarization/organization/1/website"><img src="https://opencollective.com/awesome-diarization/organization/1/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-diarization/organization/2/website"><img src="https://opencollective.com/awesome-diarization/organization/2/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-diarization/organization/3/website"><img src="https://opencollective.com/awesome-diarization/organization/3/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-diarization/organization/4/website"><img src="https://opencollective.com/awesome-diarization/organization/4/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-diarization/organization/5/website"><img src="https://opencollective.com/awesome-diarization/organization/5/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-diarization/organization/6/website"><img src="https://opencollective.com/awesome-diarization/organization/6/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-diarization/organization/7/website"><img src="https://opencollective.com/awesome-diarization/organization/7/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-diarization/organization/8/website"><img src="https://opencollective.com/awesome-diarization/organization/8/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-diarization/organization/9/website"><img src="https://opencollective.com/awesome-diarization/organization/9/avatar.svg"></a>
