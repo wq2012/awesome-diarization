@@ -9,11 +9,14 @@
   * [Evaluation](#Evaluation)
   * [Clustering](#Clustering)
   * [Speaker embedding](#Speaker-embedding)
+  * [Speaker change detection](#Speaker-change-detection)
   * [Other sotware](#Other-software)
 * [Datasets](#Datasets)
+  * [Diarization datasets](#Diarization-datasets)
+  * [Speaker embedding traning sets](#Speaker-embedding-traning-sets)
 * [Leaderboards](#Leaderboards)
 * [Other learning materials](#Other-learning-materials)
-  * [Tech blog](#Tech-blog)
+  * [Tech blogs](#Tech-blogs)
   * [Video tutorials](#Video-tutorials)
 * [Products](#Products)
 
@@ -198,7 +201,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 ## Other learning materials
 
-### Tech blog
+### Tech blogs
 
 * [Literature Review For Speaker Change Detection](https://hedonistrh.github.io/2018-07-09-Literature-Review-for-Speaker-Change-Detection/)
   by [Halil Erdoğan](https://github.com/hedonistrh)
