@@ -168,6 +168,8 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 ## Datasets
 
+### Diarization datasets
+
 | Audio | Diarization ground truth | Language | Pricing | Additional information |
 | ----- | ------------------------ | -------- | ------- | ---------------------- |
 | [2000 NIST Speaker Recognition Evaluation](https://catalog.ldc.upenn.edu/LDC2001S97) | [Disk-6 (Switchboard)](https://github.com/google/speaker-id/tree/master/publications/LstmDiarization/evaluation/NIST_SRE2000/Disk6_ground_truth), [Disk-8  (CALLHOME)](https://github.com/google/speaker-id/tree/master/publications/LstmDiarization/evaluation/NIST_SRE2000/Disk8_ground_truth) | Multiple | $2400.00 | [Evaluation Plan](https://www.nist.gov/sites/default/files/documents/2017/09/26/spk-2000-plan-v1.0.htm_.pdf) |
@@ -177,6 +179,17 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | [The AMI Meeting Corpus](http://groups.inf.ed.ac.uk/ami/corpus/) | Together with audios (need to be processed) | Multiple | Free | [License](http://groups.inf.ed.ac.uk/ami/corpus/license.shtml) |
 | [Fisher English Training Speech Part 1 Speech](https://catalog.ldc.upenn.edu/LDC2004S13) | [Fisher English Training Speech Part 1 Transcripts](https://catalog.ldc.upenn.edu/LDC2004T19)| en | $7000.00 + $1000.00 |
 | [Fisher English Training Part 2, Speech](https://catalog.ldc.upenn.edu/LDC2005S13) | [Fisher English Training Part 2, Transcripts](https://catalog.ldc.upenn.edu/LDC2005T19) | en | $7000.00 + $1000.00 |
+
+### Speaker embedding traning sets
+
+| Name | Utterances | Speakers | Language | Pricing | Additional information |
+| ---- | ---------- | -------- | -------- | ------- | ---------------------- |
+| [TIMIT](https://catalog.ldc.upenn.edu/LDC93S1) | 6K+ | 630 | en | $250.00 | Published in 1993, the TIMIT corpus of read speech is one of the earliest speaker recognition datasets. |
+| [VCTK](https://homepages.inf.ed.ac.uk/jyamagis/page3/page58/page58.html) | 43K+ | 109 | en | Free | Most were selected from a newspaper plus the Rainbow Passage and an elicitation paragraph intended to identify the speaker's accent. |
+| [LibriSpeech](http://www.openslr.org/12) | ? | 2K | en | Free | Large-scale (1000 hours) corpus of read English speech. |
+| [VoxCeleb 1&2](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/) | 7K+ | 1M+ | Multiple | Free | VoxCeleb is an audio-visual dataset consisting of short clips of human speech, extracted from interview videos uploaded to YouTube. |
+| [CN-Celeb](http://www.openslr.org/82/) | 130K+ | 1K+ | zh | Free | A Free Chinese Speaker Recognition Corpus Released by CSLT@Tsinghua University. |
+| [DeepMine](http://data.deepmine.ir/en/index.html) | 540K | 1850 | fa, en | Unknown | A speech database in Persian and English designed to build and evaluate speaker verification, as well as Persian ASR systems. |
 
 ## Leaderboards
 

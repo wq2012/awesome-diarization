@@ -37,4 +37,6 @@ For example, these will **NOT** be accepted:
 
 ### Dataset
 
-A diarization dataset must contain utterances with multiple speakers **speaking in turn**, and each utterance must have **time-stamped speaker annotations**.
+A diarization dataset must contain utterances with multiple speakers
+**speaking in turn**, and each utterance must have
+**time-stamped speaker annotations**.
