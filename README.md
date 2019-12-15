@@ -13,7 +13,7 @@
   * [Other sotware](#Other-software)
 * [Datasets](#Datasets)
   * [Diarization datasets](#Diarization-datasets)
-  * [Speaker embedding traning sets](#Speaker-embedding-traning-sets)
+  * [Speaker embedding training sets](#Speaker-embedding-training-sets)
 * [Leaderboards](#Leaderboards)
 * [Other learning materials](#Other-learning-materials)
   * [Tech blogs](#Tech-blogs)
@@ -183,7 +183,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | [Fisher English Training Speech Part 1 Speech](https://catalog.ldc.upenn.edu/LDC2004S13) | [Fisher English Training Speech Part 1 Transcripts](https://catalog.ldc.upenn.edu/LDC2004T19)| en | $7000.00 + $1000.00 |
 | [Fisher English Training Part 2, Speech](https://catalog.ldc.upenn.edu/LDC2005S13) | [Fisher English Training Part 2, Transcripts](https://catalog.ldc.upenn.edu/LDC2005T19) | en | $7000.00 + $1000.00 |
 
-### Speaker embedding traning sets
+### Speaker embedding training sets
 
 | Name | Utterances | Speakers | Language | Pricing | Additional information |
 | ---- | ---------- | -------- | -------- | ------- | ---------------------- |
