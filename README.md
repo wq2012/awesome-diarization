@@ -31,32 +31,49 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 ## Publications
 
-### 2019
-* [Supervised online diarization with sample mean loss for multi-domain data](https://arxiv.org/abs/1911.01266)
+### Special topics
+
+#### Supervisied diarization
+
+* [Supervised online diarization with sample mean loss for multi-domain data](https://arxiv.org/abs/1911.01266), 2019
+* [Discriminative Neural Clustering for Speaker Diarisation](https://arxiv.org/abs/1910.09703), 2019
+* [End-to-End Neural Speaker Diarization with Permutation-Free Objectives](https://arxiv.org/abs/1909.05952), 2019
+* [End-to-End Neural Speaker Diarization with Self-attention](https://arxiv.org/abs/1909.06247), 2019
+* [Fully Supervised Speaker Diarization](https://arxiv.org/abs/1810.04719), 2018
+
+#### Joint diarization and ASR
+
+* [Joint Speech Recognition and Speaker Diarization via Sequence Transduction](https://arxiv.org/abs/1907.05337), 2019
+* [Joint Speaker Diarization and Recognition Using Convolutional and Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/8461666), 2018
+* [Says who? Deep learning models for joint speech recognition, segmentation and diarization](https://ieeexplore.ieee.org/abstract/document/8462375), 2018
+
+#### Challenges
+
+* [Diarization is Hard: Some Experiences and Lessons Learned for the JHU
+Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf), 2018
+* [ODESSA at Albayzin Speaker Diarization Challenge 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-5_Patino.pdf), 2018
+* [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf), 2018
+
+### Other
+
+#### 2019
+
 * [Overlap-aware diarization: resegmentation using neural end-to-end overlapped speech detection](https://arxiv.org/abs/1910.11646)
 * [Speaker diarization using latent space clustering in generative adversarial network](https://arxiv.org/abs/1910.11398)
 * [A study of semi-supervised speaker diarization system using gan mixture model](https://arxiv.org/abs/1910.11416)
 * [Learning deep representations by multilayer bootstrap networks for speaker diarization](https://arxiv.org/abs/1910.10969)
-* [Discriminative Neural Clustering for Speaker Diarisation](https://arxiv.org/abs/1910.09703)
-* [End-to-End Neural Speaker Diarization with Permutation-Free Objectives](https://arxiv.org/abs/1909.05952)
-* [End-to-End Neural Speaker Diarization with Self-attention](https://arxiv.org/abs/1909.06247)
 * [Enhancements for Audio-only Diarization Systems](https://arxiv.org/abs/1909.00082)
 * [LSTM based Similarity Measurement with Spectral Clustering for Speaker Diarization](https://arxiv.org/abs/1907.10393)
-* [Joint Speech Recognition and Speaker Diarization via Sequence Transduction](https://arxiv.org/abs/1907.05337)
+
 * [Meeting Transcription Using Virtual Microphone Arrays](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/DenmarkTechReport-5ccb8b095c8f3.pdf)
 * [Speaker diarisation using 2D self-attentive combination of embeddings](https://arxiv.org/abs/1902.03190)
 
-### 2018
+#### 2018
 
-* [Fully Supervised Speaker Diarization](https://arxiv.org/abs/1810.04719)
-* [Diarization is Hard: Some Experiences and Lessons Learned for the JHU
-Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf)
-* [ODESSA at Albayzin Speaker Diarization Challenge 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-5_Patino.pdf)
-* [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf)
 * [Neural speech turn segmentation and affinity propagation for speaker diarization](https://hal.archives-ouvertes.fr/hal-01912236/)
 * [Multimodal Speaker Segmentation and Diarization using Lexical and Acoustic Cues via Sequence to Sequence Neural Networks](https://arxiv.org/abs/1805.10731)
 
-### 2017
+#### 2017
 
 * [Speaker Diarization with LSTM](https://arxiv.org/abs/1710.10468)
 * [Speaker diarization using deep neural network embeddings](http://danielpovey.com/files/2017_icassp_diarization_embeddings.pdf)
@@ -65,41 +82,41 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 * [Speaker Change Detection in Broadcast TV using Bidirectional Long Short-Term Memory Networks](https://pdfs.semanticscholar.org/edff/b62b32ffcc2b5cc846e26375cb300fac9ecc.pdf)
 * [Speaker Diarization using Deep Recurrent Convolutional Neural Networks for Speaker Embeddings](https://arxiv.org/abs/1708.02840)
 
-### 2016
+#### 2016
 
 * [A Speaker Diarization System for Studying Peer-Led Team Learning Groups](https://arxiv.org/pdf/1606.07136.pdf)
 
-### 2015
+#### 2015
 
 * [Diarization resegmentation in the factor analysis subspace](https://engineering.jhu.edu/hltcoe/wp-content/uploads/sites/92/2016/10/Sell_Garcia-Romero_2015A.pdf)
 
-### 2014
+#### 2014
 
 * [A study of the cosine distance-based mean shift for telephone speech diarization](https://www.researchgate.net/profile/Patrick_Kenny/publication/260661427_A_Study_of_the_Cosine_Distance-Based_Mean_Shift_for_Telephone_Speech_Diarization/links/0c96053270d2eaa133000000.pdf)
 * [Speaker diarization with PLDA i-vector scoring and unsupervised calibration](https://ieeexplore.ieee.org/abstract/document/7078610)
 * [Artificial neural network features for speaker diarization](https://ieeexplore.ieee.org/abstract/document/7078608)
 
-### 2013
+#### 2013
 * [Unsupervised methods for speaker diarization: An integrated and iterative approach](http://groups.csail.mit.edu/sls/publications/2013/Shum_IEEE_Oct-2013.pdf)
 
-### 2011
+#### 2011
 
 * [PLDA-based Clustering for Speaker Diarization of Broadcast Streams](https://pdfs.semanticscholar.org/0175/a752c5c72cadc7c0b899fd15f2f6b93c3335.pdf)
 * [Speaker diarization of meetings based on speaker role n-gram models](https://publications.idiap.ch/downloads/papers/2011/Valente_ICASSP2011_2011.pdf)
 
-### 2010
+#### 2010
 
 * [Speaker diarization: A review of recent research](http://www.eurecom.fr/fr/publication/3152/download/mm-publi-3152.pdf)
 
-### 2009
+#### 2009
 
 * [Speaker Diarization for Meeting Room Audio](https://wiki.inf.ed.ac.uk/twiki/pub/CSTR/ListenSemester2_2009_10/sun_IS2009_SpDia_meeting.PDF)
 
-### 2008
+#### 2008
 
 * [Stream-based speaker segmentation using speaker factors and eigenvoices](https://www.researchgate.net/profile/Pietro_Laface/publication/224313019_Stream-based_speaker_segmentation_using_speaker_factors_and_eigenvoices/links/5770fe8608ae10de639dc121.pdf)
 
-### 2006
+#### 2006
 
 * [An overview of automatic speaker diarization systems](https://alize.univ-avignon.fr/doc/publis/06_IEEE-TASP_Tranter.pdf)
 * [A spectral clustering approach to speaker diarization](http://www.ifp.illinois.edu/~hning2/papers/Ning_spectral.pdf)
