@@ -55,6 +55,10 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 ### Other
 
+#### 2020
+
+* [Speaker Diarization with Region Proposal Network](https://arxiv.org/abs/2002.06220)
+
 #### 2019
 
 * [Overlap-aware diarization: resegmentation using neural end-to-end overlapped speech detection](https://arxiv.org/abs/1910.11646)
