@@ -10,6 +10,7 @@
   * [Clustering](#Clustering)
   * [Speaker embedding](#Speaker-embedding)
   * [Speaker change detection](#Speaker-change-detection)
+  * [Audio feature extraction](#Audio-feature-extraction)
   * [Other sotware](#Other-software)
 * [Datasets](#Datasets)
   * [Diarization datasets](#Diarization-datasets)
@@ -183,6 +184,14 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | Link  | Language | Description |
 | ----  | -------- | ----------- |
 | [change_detection](https://github.com/yinruiqing/change_detection) ![GitHub stars](https://img.shields.io/github/stars/yinruiqing/change_detection?style=social) | Python & Keras | Code for Speaker Change Detection in Broadcast TV using Bidirectional Long Short-Term Memory Networks. |
+
+### Audio feature extraction
+
+| Link  | Language | Description |
+| ----  | -------- | ----------- |
+| [LibROSA](https://github.com/librosa/librosa) ![GitHub stars](https://img.shields.io/github/stars/librosa/librosa?style=social) | Python | Python library for audio and music analysis. https://librosa.github.io/ |
+| [python_speech_features](https://github.com/jameslyons/python_speech_features) ![GitHub stars](https://img.shields.io/github/stars/jameslyons/python_speech_features?style=social) | Python | This library provides common speech features for ASR including MFCCs and filterbank energies. https://python-speech-features.readthedocs.io/en/latest/ |
+| [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) ![GitHub stars](https://img.shields.io/github/stars/tyiannak/pyAudioAnalysis?style=social) | Python | Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications. |
 
 ### Other software
 
