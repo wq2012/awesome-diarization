@@ -17,12 +17,12 @@
   * [Diarization datasets](#Diarization-datasets)
   * [Speaker embedding training sets](#Speaker-embedding-training-sets)
   * [Augmentation noise sources](#Augmentation-noise-sources)
+* [Conferences](#Conferences)
 * [Leaderboards](#Leaderboards)
 * [Other learning materials](#Other-learning-materials)
   * [Tech blogs](#Tech-blogs)
   * [Video tutorials](#Video-tutorials)
 * [Products](#Products)
-
 
 ## Overview
 
@@ -247,6 +247,16 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | ---- | ---------- | ------- | ---------------------- |
 | [AudioSet](https://research.google.com/audioset/) | 2M | Free | A large-scale dataset of manually annotated audio events. |
 | [MUSAN](https://www.openslr.org/17/) | N/A | Free | MUSAN is a corpus of music, speech, and noise recordings. |
+
+## Conferences
+
+| Conference/Workshop | Frequency | Page Limit  | Organization | Blind review |
+| ------------------- | --------- | ----------  | ------------ | ------------ |
+| ICASSP              | Annual    | 4 + 1 (ref) | IEEE         | No           |
+| InterSpeech         | Annual    | 4 + 1 (ref) | ISCA         | No           |
+| Speaker Odyssey     | Biennial  | 8 + 2 (ref) | ISCA         | No           |
+| SLT                 | Biennial  | 6 + 2 (ref) | IEEE         | Yes          |
+| ASRU                | Biennial  | 6 + 2 (ref) | IEEE         | Yes          |
 
 ## Leaderboards
 
