@@ -250,7 +250,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 ## Conferences
 
-| Conference/Workshop | Frequency | Page Limit  | Organization | Blind review |
+| Conference/Workshop | Frequency | Page Limit  | Organization | Blind Review |
 | ------------------- | --------- | ----------  | ------------ | ------------ |
 | ICASSP              | Annual    | 4 + 1 (ref) | IEEE         | No           |
 | InterSpeech         | Annual    | 4 + 1 (ref) | ISCA         | No           |
