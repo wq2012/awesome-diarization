@@ -20,6 +20,7 @@
 * [Conferences](#Conferences)
 * [Leaderboards](#Leaderboards)
 * [Other learning materials](#Other-learning-materials)
+  * [Books](#Books)
   * [Tech blogs](#Tech-blogs)
   * [Video tutorials](#Video-tutorials)
 * [Products](#Products)
@@ -265,6 +266,10 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 * [DIHARD 2018](https://coml.lscp.ens.fr/dihard/2018/results.php)
 
 ## Other learning materials
+
+### Books
+
+* [Voice Identity Techniques: From core algorithms to engineering practice (Chinese)](https://github.com/wq2012/VoiceIdentityBook) by Quan Wang, 2020
 
 ### Tech blogs
 
