@@ -65,6 +65,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 * [An End-to-End Speaker Diarization Service for improving Multimedia Content Access](https://nem-initiative.org/wp-content/uploads/2020/07/1-4-an_end_to_end_speaker_diarization_service_for_improving_multimedia_content_access.pdf)
 * [Spot the conversation: speaker diarisation in the wild](https://arxiv.org/abs/2007.01216)
 * [Speaker Diarization with Region Proposal Network](https://arxiv.org/abs/2002.06220)
+* [Target-Speaker Voice Activity Detection: a Novel Approach for Multi-Speaker Diarization in a Dinner Party Scenario](https://arxiv.org/abs/2005.07272)
 
 #### 2019
 
