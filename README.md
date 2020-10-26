@@ -291,6 +291,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 * [Fully Supervised Speaker Diarization: Say Goodbye to clustering](https://www.youtube.com/watch?v=pGkqwRPzx9U) by Google
 * [Speaker Diarization: Optimal Clustering and Learning Speaker Embeddings](https://www.youtube.com/watch?v=vcyB8xb1-ys) by Microsoft Research
 * [Robust Speaker Diarization for Meetings: the ICSI system](https://www.youtube.com/watch?v=kEcUcfLmIS0) by Microsoft Research
+* [【机器之心&博文视点】入门声纹技术｜第二讲：声纹分割聚类与其他应用](https://www.youtube.com/watch?v=HE9JW8yKYRk) by Quan Wang
 
 ## Products
 
