@@ -267,6 +267,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | Speaker Odyssey     | Biennial  | 8 + 2 (ref) | ISCA         | No           |
 | SLT                 | Biennial  | 6 + 2 (ref) | IEEE         | Yes          |
 | ASRU                | Biennial  | 6 + 2 (ref) | IEEE         | Yes          |
+| WASPAA              | Biennial  | 4 + 1 (ref) | IEEE         | No           |
 
 ## Other learning materials
 
