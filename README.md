@@ -195,7 +195,6 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | [pytorch_xvectors](https://github.com/manojpamk/pytorch_xvectors) ![GitHub stars](https://img.shields.io/github/stars/manojpamk/pytorch_xvectors?style=social) | x-vector | Python & PyTorch | PyTorch implementation of Voxceleb x-vectors. Additionaly, includes meta-learning architectures for embedding training. Evaluated with speaker diarization and speaker verification. |
 | [ASVtorch](https://gitlab.com/ville.vestman/asvtorch) | i-vector | Python & PyTorch | ASVtorch is a toolkit for automatic speaker recognition. |
 | [asv-subtools](https://github.com/Snowdar/asv-subtools) ![GitHub stars](https://img.shields.io/github/stars/Snowdar/asv-subtools?style=social) | i-vector & x-vector | Kaldi & PyTorch | ASV-Subtools is developed based on Pytorch and Kaldi for the task of speaker recognition, language identification, etc. The 'sub' of 'subtools' means that there are many modular tools and the parts constitute the whole. |
-| [SpeechBrain](https://github.com/speechbrain/speechbrain) ![GitHub stars](https://img.shields.io/github/stars/speechbrain/speechbrain?style=social) | ECAPA-TDNN | Python & PyTorch | SpeechBrain is an open-source and all-in-one speech toolkit based on PyTorch. |
 
 ### Speaker change detection
 
