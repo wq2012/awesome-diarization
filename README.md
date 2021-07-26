@@ -273,6 +273,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | SLT                 | Biennial  | 6 + 2 (ref) | IEEE         | Yes          |
 | ASRU                | Biennial  | 6 + 2 (ref) | IEEE         | Yes          |
 | WASPAA              | Biennial  | 4 + 1 (ref) | IEEE         | No           |
+| IJCB                | Annual    | 8       | IEEE & IAPR TC-4 | Yes          |
 
 ## Other learning materials
 
