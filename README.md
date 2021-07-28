@@ -59,12 +59,17 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 #### Challenges
 
+* [The Hitachi-JHU DIHARD III system: Competitive end-to-end neural diarization and x-vector clustering systems combined by DOVER-Lap](https://arxiv.org/abs/2102.01363)
 * [Diarization is Hard: Some Experiences and Lessons Learned for the JHU
 Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf), 2018
 * [ODESSA at Albayzin Speaker Diarization Challenge 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-5_Patino.pdf), 2018
 * [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf), 2018
 
 ### Other
+
+#### 2021
+
+* [DOVER-Lap: A method for combining overlap-aware diarization outputs](https://arxiv.org/abs/2011.01997)
 
 #### 2020
 
@@ -165,6 +170,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | NIST md-eval | Perl | (1) modified [md-eval.pl](http://www1.icsi.berkeley.edu/~knoxm/dia/) from [Mary Tai Knox](http://www1.icsi.berkeley.edu/~knoxm); (2) [md-eval-v21.pl](https://github.com/jitendrab/btp/blob/master/c_code/single_diag_gaussian_no_viterbi/md-eval-v21.pl) from [jitendra](https://github.com/jitendrab); (3) [md-eval-22.pl](https://github.com/nryant/dscore/blob/master/scorelib/md-eval-22.pl) from [nryant](https://github.com/nryant) |
 | [dscore](https://github.com/nryant/dscore) ![GitHub stars](https://img.shields.io/github/stars/nryant/dscore?style=social) | Python & Perl | Diarization scoring tools. |
 | [Sequence Match Accuracy](https://github.com/google/uis-rnn/blob/master/uisrnn/evals.py) | Python | Match the accuracy of two sequences with Hungarian algorithm. |
+| [spyder](https://github.com/desh2608/spyder) ![GitHub stars](https://img.shields.io/github/stars/desh2608/spyder?style=social) | Python & C++ | Simple Python package for fast DER computation. |
 
 ### Clustering
 
@@ -224,6 +230,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | Link | Language | Description |
 | ---- | -------- | ----------- |
 | [VB Diarization](https://github.com/wq2012/VB_diarization) ![GitHub stars](https://img.shields.io/github/stars/wq2012/VB_diarization?style=social) [![Build Status](https://travis-ci.org/wq2012/VB_diarization.svg?branch=master)](https://travis-ci.org/wq2012/VB_diarization) | Python | VB Diarization with Eigenvoice and HMM Priors. |
+| [DOVER-Lap](https://github.com/desh2608/dover-lap) ![GitHub stars](https://img.shields.io/github/stars/desh2608/dover-lap?style=social) | Python | Python package for combining diarization system outputs |
 
 ## Datasets
 
