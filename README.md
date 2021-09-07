@@ -43,7 +43,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [A review on speaker diarization systems and approaches](https://www.sciencedirect.com/science/article/abs/pii/S0167639312000696), 2012
 * [Speaker diarization: A review of recent research](http://www.eurecom.fr/fr/publication/3152/download/mm-publi-3152.pdf), 2010
 
-#### Supervisied diarization
+#### Supervised diarization
 
 * [End-to-End Diarization for Variable Number of Speakers with Local-Global Networks and Discriminative Speaker Embeddings](https://arxiv.org/abs/2105.02096), 2021
 * [Supervised online diarization with sample mean loss for multi-domain data](https://arxiv.org/abs/1911.01266), 2019
