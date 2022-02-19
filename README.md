@@ -54,6 +54,8 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 #### Joint diarization and ASR
 
+* [Turn-to-Diarize: Online Speaker Diarization Constrained by Transformer Transducer Speaker Turn Detection](https://arxiv.org/abs/2109.11641), 2021
+* [Transcribe-to-Diarize: Neural Speaker Diarization for Unlimited Number of Speakers using End-to-End Speaker-Attributed ASR](https://arxiv.org/abs/2110.03151), 2021
 * [Joint Speech Recognition and Speaker Diarization via Sequence Transduction](https://arxiv.org/abs/1907.05337), 2019
 * [Says who? Deep learning models for joint speech recognition, segmentation and diarization](https://ieeexplore.ieee.org/abstract/document/8462375), 2018
 
@@ -71,7 +73,6 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 * [Overlap-aware low-latency online speaker diarization based on end-to-end local segmentation](https://arxiv.org/abs/2109.06483)
 * [End-to-end speaker segmentation for overlap-aware resegmentation](https://www.isca-speech.org/archive/interspeech_2021/bredin21_interspeech.html)
-* [Turn-to-Diarize: Online Speaker Diarization Constrained by Transformer Transducer Speaker Turn Detection](https://arxiv.org/abs/2109.11641)
 * [DIVE: End-to-end Speech Diarization via Iterative Speaker Embedding](https://arxiv.org/abs/2105.13802)
 * [DOVER-Lap: A method for combining overlap-aware diarization outputs](https://arxiv.org/abs/2011.01997)
 
@@ -165,6 +166,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | [VBDiarization](https://github.com/Jamiroquai88/VBDiarization) ![GitHub stars](https://img.shields.io/github/stars/Jamiroquai88/VBDiarization?style=social) | Python | Speaker diarization based on Kaldi x-vectors using pretrained model trained in Kaldi ([kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi)) and converted to ONNX format ([onnx/onnx](https://github.com/onnx/onnx)) running in ONNXRuntime ([Microsoft/onnxruntime](https://github.com/Microsoft/onnxruntime)). |
 | [RE-VERB](https://github.com/team-re-verb/RE-VERB) ![GitHub stars](https://img.shields.io/github/stars/team-re-verb/RE-VERB?style=social) | Python & JavaScript | RE: VERB is speaker diarization system, it allows the user to send/record audio of a conversation and receive timestamps of who spoke when. |
 | [StreamingSpeakerDiarization](https://github.com/juanmc2005/StreamingSpeakerDiarization/) ![GitHub stars](https://img.shields.io/github/stars/juanmc2005/StreamingSpeakerDiarization?style=social) | Python | Streaming speaker diarization, extends [pyannote.audio](https://github.com/pyannote/pyannote-audio) to online processing |
+| [simple_diarizer](https://github.com/cvqluu/simple_diarizer) | Python | Simplified diarization pipeline using some pretrained models. Made to be a simple as possible to go from an input audio file to diarized segments. |
 
 
 ### Evaluation
