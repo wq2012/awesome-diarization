@@ -59,6 +59,12 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Joint Speech Recognition and Speaker Diarization via Sequence Transduction](https://arxiv.org/abs/1907.05337), 2019
 * [Says who? Deep learning models for joint speech recognition, segmentation and diarization](https://ieeexplore.ieee.org/abstract/document/8462375), 2018
 
+#### Online speaker diarization
+
+* [Speaker Diarization as a Fully Online Bandit Learning Problem in MiniVox](https://proceedings.mlr.press/v157/lin21c/lin21c.pdf)
+* [Online Speaker Diarization with Relation Network](https://arxiv.org/abs/2009.08162)
+* [VoiceID on the Fly: A Speaker Recognition System that Learns from Scratch](https://www.isca-speech.org/archive/interspeech_2020/lin20b_interspeech.html)
+
 #### Challenges
 
 * [The Hitachi-JHU DIHARD III system: Competitive end-to-end neural diarization and x-vector clustering systems combined by DOVER-Lap](https://arxiv.org/abs/2102.01363)
@@ -66,6 +72,8 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf), 2018
 * [ODESSA at Albayzin Speaker Diarization Challenge 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-5_Patino.pdf), 2018
 * [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf), 2018
+
+
 
 ### Other
 
@@ -155,7 +163,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 | Link | Language | Description |
 | ---- | -------- | ----------- |
-| | [MiniVox](https://github.com/doerlbh/MiniVox) ![GitHub stars](https://img.shields.io/github/stars/doerlbh/MiniVox?style=social) | MATLAB | MiniVox is an open-source evaluation system for the online speaker diarization task. |
+| [MiniVox](https://github.com/doerlbh/MiniVox) ![GitHub stars](https://img.shields.io/github/stars/doerlbh/MiniVox?style=social) | MATLAB | MiniVox is an open-source evaluation system for the online speaker diarization task. |
 | [SpeechBrain](https://github.com/speechbrain/speechbrain) ![GitHub stars](https://img.shields.io/github/stars/speechbrain/speechbrain?style=social) | Python & PyTorch | SpeechBrain is an open-source and all-in-one speech toolkit based on PyTorch. |
 | [SIDEKIT for diarization (s4d)](https://projets-lium.univ-lemans.fr/s4d/) | Python | An open source package extension of SIDEKIT for Speaker diarization. |
 | [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) ![GitHub stars](https://img.shields.io/github/stars/tyiannak/pyAudioAnalysis?style=social) | Python | Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications. |
