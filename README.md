@@ -64,7 +64,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Turn-to-Diarize: Online Speaker Diarization Constrained by Transformer Transducer Speaker Turn Detection](https://arxiv.org/abs/2109.11641), 2021
 * [Speaker Diarization as a Fully Online Bandit Learning Problem in MiniVox](https://proceedings.mlr.press/v157/lin21c/lin21c.pdf), 2021
 * [Online Speaker Diarization with Relation Network](https://arxiv.org/abs/2009.08162), 2020
-* [VoiceID on the Fly: A Speaker Recognition System that Learns from Scratch](https://www.isca-speech.org/archive/interspeech_2020/lin20b_interspeech.html), 2020
+* [VoiceID on the Fly: A Speaker Recognition System that Learns from Scratch](https://www.isca-speech.org/archive/pdfs/interspeech_2020/lin20b_interspeech.pdf), 2020
 
 #### Challenges
 
@@ -91,7 +91,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 * [Speaker Diarization as a Fully Online Learning Problem in MiniVox](https://arxiv.org/abs/2006.04376)
 * [Online Speaker Diarization with Relation Network](https://arxiv.org/abs/2009.08162)
 * [An End-to-End Speaker Diarization Service for improving Multimedia Content Access](https://nem-initiative.org/wp-content/uploads/2020/07/1-4-an_end_to_end_speaker_diarization_service_for_improving_multimedia_content_access.pdf)
-* [VoiceID on the Fly: A Speaker Recognition System that Learns from Scratch](https://www.isca-speech.org/archive/interspeech_2020/lin20b_interspeech.html)
+* [VoiceID on the Fly: A Speaker Recognition System that Learns from Scratch](https://www.isca-speech.org/archive/pdfs/interspeech_2020/lin20b_interspeech.pdf)
 * [Spot the conversation: speaker diarisation in the wild](https://arxiv.org/abs/2007.01216)
 * [Speaker Diarization with Region Proposal Network](https://arxiv.org/abs/2002.06220)
 * [Target-Speaker Voice Activity Detection: a Novel Approach for Multi-Speaker Diarization in a Dinner Party Scenario](https://arxiv.org/abs/2005.07272)
