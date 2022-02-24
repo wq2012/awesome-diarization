@@ -71,6 +71,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 #### 2021
 
+* [Speaker Diarization as a Fully Online Bandit Learning Problem in MiniVox](https://proceedings.mlr.press/v157/lin21c/lin21c.pdf)
 * [Overlap-aware low-latency online speaker diarization based on end-to-end local segmentation](https://arxiv.org/abs/2109.06483)
 * [End-to-end speaker segmentation for overlap-aware resegmentation](https://www.isca-speech.org/archive/interspeech_2021/bredin21_interspeech.html)
 * [DIVE: End-to-end Speech Diarization via Iterative Speaker Embedding](https://arxiv.org/abs/2105.13802)
@@ -78,8 +79,10 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 #### 2020
 
+* [Speaker Diarization as a Fully Online Learning Problem in MiniVox](https://arxiv.org/abs/2006.04376)
 * [Online Speaker Diarization with Relation Network](https://arxiv.org/abs/2009.08162)
 * [An End-to-End Speaker Diarization Service for improving Multimedia Content Access](https://nem-initiative.org/wp-content/uploads/2020/07/1-4-an_end_to_end_speaker_diarization_service_for_improving_multimedia_content_access.pdf)
+* [VoiceID on the Fly: A Speaker Recognition System that Learns from Scratch](https://www.isca-speech.org/archive/interspeech_2020/lin20b_interspeech.html)
 * [Spot the conversation: speaker diarisation in the wild](https://arxiv.org/abs/2007.01216)
 * [Speaker Diarization with Region Proposal Network](https://arxiv.org/abs/2002.06220)
 * [Target-Speaker Voice Activity Detection: a Novel Approach for Multi-Speaker Diarization in a Dinner Party Scenario](https://arxiv.org/abs/2005.07272)
