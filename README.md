@@ -61,9 +61,10 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 #### Online speaker diarization
 
-* [Speaker Diarization as a Fully Online Bandit Learning Problem in MiniVox](https://proceedings.mlr.press/v157/lin21c/lin21c.pdf)
-* [Online Speaker Diarization with Relation Network](https://arxiv.org/abs/2009.08162)
-* [VoiceID on the Fly: A Speaker Recognition System that Learns from Scratch](https://www.isca-speech.org/archive/interspeech_2020/lin20b_interspeech.html)
+* [Turn-to-Diarize: Online Speaker Diarization Constrained by Transformer Transducer Speaker Turn Detection](https://arxiv.org/abs/2109.11641), 2021
+* [Speaker Diarization as a Fully Online Bandit Learning Problem in MiniVox](https://proceedings.mlr.press/v157/lin21c/lin21c.pdf), 2021
+* [Online Speaker Diarization with Relation Network](https://arxiv.org/abs/2009.08162), 2020
+* [VoiceID on the Fly: A Speaker Recognition System that Learns from Scratch](https://www.isca-speech.org/archive/interspeech_2020/lin20b_interspeech.html), 2020
 
 #### Challenges
 
