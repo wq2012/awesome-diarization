@@ -155,6 +155,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 
 | Link | Language | Description |
 | ---- | -------- | ----------- |
+| | [MiniVox](https://github.com/doerlbh/MiniVox) ![GitHub stars](https://img.shields.io/github/stars/doerlbh/MiniVox?style=social) | MATLAB | MiniVox is an open-source evaluation system for the online speaker diarization task. |
 | [SpeechBrain](https://github.com/speechbrain/speechbrain) ![GitHub stars](https://img.shields.io/github/stars/speechbrain/speechbrain?style=social) | Python & PyTorch | SpeechBrain is an open-source and all-in-one speech toolkit based on PyTorch. |
 | [SIDEKIT for diarization (s4d)](https://projets-lium.univ-lemans.fr/s4d/) | Python | An open source package extension of SIDEKIT for Speaker diarization. |
 | [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) ![GitHub stars](https://img.shields.io/github/stars/tyiannak/pyAudioAnalysis?style=social) | Python | Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications. |
@@ -257,6 +258,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Inte
 | [Fisher English Training Speech Part 1 Speech](https://catalog.ldc.upenn.edu/LDC2004S13) | [Fisher English Training Speech Part 1 Transcripts](https://catalog.ldc.upenn.edu/LDC2004T19)| en | $7000.00 + $1000.00 |
 | [Fisher English Training Part 2, Speech](https://catalog.ldc.upenn.edu/LDC2005S13) | [Fisher English Training Part 2, Transcripts](https://catalog.ldc.upenn.edu/LDC2005T19) | en | $7000.00 + $1000.00 |
 | [VoxConverse](https://github.com/joonson/voxconverse) | TBD | TBD | Free | VoxConverse is an audio-visual diarisation dataset consisting of over 50 hours of multispeaker clips of human speech, extracted from YouTube videos |
+| [MiniVox Benchmark](https://github.com/doerlbh/MiniVox) | [MiniVox Benchmark](https://github.com/doerlbh/MiniVox) | Fen | Free | MiniVox is an automatic framework to transform any speaker-labelled dataset into continuous speech datastream with episodically revealed label feedbacks. |
 
 ### Speaker embedding training sets
 
