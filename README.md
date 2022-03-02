@@ -69,7 +69,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 * [The Hitachi-JHU DIHARD III system: Competitive end-to-end neural diarization and x-vector clustering systems combined by DOVER-Lap](https://arxiv.org/abs/2102.01363)
 * [Diarization is Hard: Some Experiences and Lessons Learned for the JHU
-Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf), 2018
+Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs/interspeech_2018/sell18_interspeech.pdf), 2018
 * [ODESSA at Albayzin Speaker Diarization Challenge 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-5_Patino.pdf), 2018
 * [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf), 2018
 
