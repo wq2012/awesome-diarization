@@ -46,6 +46,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 #### Supervised diarization
 
 * [End-to-End Diarization for Variable Number of Speakers with Local-Global Networks and Discriminative Speaker Embeddings](https://arxiv.org/abs/2105.02096), 2021
+* [Speaker Diarization: Using Recurrent Neural Networks](https://arxiv.org/pdf/2006.05596.pdf)[code](https://github.com/vishalshar/SpeakerDiarization_RNN_CNN_LSTM), 2020
 * [Supervised online diarization with sample mean loss for multi-domain data](https://arxiv.org/abs/1911.01266), 2019
 * [Discriminative Neural Clustering for Speaker Diarisation](https://arxiv.org/abs/1910.09703), 2019
 * [End-to-End Neural Speaker Diarization with Permutation-Free Objectives](https://arxiv.org/abs/1909.05952), 2019
