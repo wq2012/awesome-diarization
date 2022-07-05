@@ -301,6 +301,10 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 
 ## Other learning materials
 
+### Online courses
+
+* Course on Udemy: [A Tutorial on Speaker Diarization](https://www.udemy.com/course/diarization/?referralCode=21D7CC0AEABB7FE3680F)
+
 ### Books
 
 * [Voice Identity Techniques: From core algorithms to engineering practice (Chinese)](https://github.com/wq2012/VoiceIdentityBook) by Quan Wang, 2020
