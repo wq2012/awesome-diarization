@@ -83,6 +83,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 * [End-to-end speaker segmentation for overlap-aware resegmentation](https://www.isca-speech.org/archive/interspeech_2021/bredin21_interspeech.html)
 * [DIVE: End-to-end Speech Diarization via Iterative Speaker Embedding](https://arxiv.org/abs/2105.13802)
 * [DOVER-Lap: A method for combining overlap-aware diarization outputs](https://arxiv.org/abs/2011.01997)
+* [Bayesian HMM clustering of x-vector sequences (VBx) in speaker diarization: Theory, implementation and analysis on standard tasks](https://www.sciencedirect.com/science/article/pii/S0885230821000619)
 
 #### 2020
 
@@ -171,7 +172,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [pyBK](https://github.com/josepatino/pyBK) ![GitHub stars](https://img.shields.io/github/stars/josepatino/pyBK?style=social) | Python | Speaker diarization using binary key speaker modelling. Computationally light solution that does not require external training data. |
 | [Speaker-Diarization](https://github.com/taylorlu/Speaker-Diarization) ![GitHub stars](https://img.shields.io/github/stars/taylorlu/Speaker-Diarization?style=social) | Python | Speaker diarization using uis-rnn and GhostVLAD. An easier way to support openset speakers. |
 | [EEND](https://github.com/hitachi-speech/EEND) ![GitHub stars](https://img.shields.io/github/stars/hitachi-speech/EEND?style=social) | Python & Bash & Perl | End-to-End Neural Diarization. |
-| [VBDiarization](https://github.com/Jamiroquai88/VBDiarization) ![GitHub stars](https://img.shields.io/github/stars/Jamiroquai88/VBDiarization?style=social) | Python | Speaker diarization based on Kaldi x-vectors using pretrained model trained in Kaldi ([kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi)) and converted to ONNX format ([onnx/onnx](https://github.com/onnx/onnx)) running in ONNXRuntime ([Microsoft/onnxruntime](https://github.com/Microsoft/onnxruntime)). |
+| [VBx](https://github.com/BUTSpeechFIT/VBx) ![GitHub stars](https://img.shields.io/github/stars/BUTSpeechFIT/VBx?style=social) | Python | Variational Bayes HMM over x-vectors diarization. x-vector extractor [recipe](https://github.com/phonexiaresearch/VBx-training-recipe) |
 | [RE-VERB](https://github.com/team-re-verb/RE-VERB) ![GitHub stars](https://img.shields.io/github/stars/team-re-verb/RE-VERB?style=social) | Python & JavaScript | RE: VERB is speaker diarization system, it allows the user to send/record audio of a conversation and receive timestamps of who spoke when. |
 | [StreamingSpeakerDiarization](https://github.com/juanmc2005/StreamingSpeakerDiarization/) ![GitHub stars](https://img.shields.io/github/stars/juanmc2005/StreamingSpeakerDiarization?style=social) | Python | Streaming speaker diarization, extends [pyannote.audio](https://github.com/pyannote/pyannote-audio) to online processing |
 | [simple_diarizer](https://github.com/cvqluu/simple_diarizer) | Python | Simplified diarization pipeline using some pretrained models. Made to be a simple as possible to go from an input audio file to diarized segments. |
