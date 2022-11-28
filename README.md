@@ -73,6 +73,13 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 * [ODESSA at Albayzin Speaker Diarization Challenge 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-5_Patino.pdf), 2018
 * [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf), 2018
 
+#### Audio-Visual Speaker Diarization
+
+* [AVA-AVD: Audio-Visual Speaker Diarization in the Wild](https://dl.acm.org/doi/abs/10.1145/3503161.3548027), 2022
+* [DyViSE: Dynamic Vision-Guided Speaker Embedding for Audio-Visual Speaker Diarization](https://ieeexplore.ieee.org/document/9948860), 2022
+* [End-to-End Audio-Visual Neural Speaker Diarization](https://isca-speech.org/archive/interspeech_2022/he22c_interspeech.html), 2022
+* [MSDWild: Multi-modal Speaker Diarization Dataset in the Wild](https://isca-speech.org/archive/interspeech_2022/liu22t_interspeech.html), 2022
+
 
 
 ### Other
