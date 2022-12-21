@@ -20,6 +20,7 @@
 * [Conferences](#Conferences)
 * [Leaderboards](#Leaderboards)
 * [Other learning materials](#Other-learning-materials)
+  * [Online courses](#Online-courses)
   * [Books](#Books)
   * [Tech blogs](#Tech-blogs)
   * [Video tutorials](#Video-tutorials)
