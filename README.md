@@ -339,6 +339,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 
 | Company | Product |
 | ------- | ------- |
+| Google  | [Recorder app](https://support.google.com/pixelphone?p=recorder_speaker_labels) |
 | Google  | [Google Cloud Speech-to-Text API](https://cloud.google.com/speech-to-text/docs/multiple-voices) |
 | Amazon  | [Amazon Transcribe](https://aws.amazon.com/transcribe) |
 | IBM     | [Watson Speech To Text API](https://www.ibm.com/watson/services/speech-to-text) |
