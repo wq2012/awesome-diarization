@@ -46,6 +46,8 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 #### Supervised diarization
 
+* [TOLD: A Novel Two-Stage Overlap-Aware Framework for Speaker Diarization](https://arxiv.org/abs/2303.05397), 2023
+* [Speaker Overlap-aware Neural Diarization for Multi-party Meeting Analysis](https://arxiv.org/abs/2211.10243), 2022
 * [End-to-End Diarization for Variable Number of Speakers with Local-Global Networks and Discriminative Speaker Embeddings](https://arxiv.org/abs/2105.02096), 2021
 * [Supervised online diarization with sample mean loss for multi-domain data](https://arxiv.org/abs/1911.01266), 2019
 * [Discriminative Neural Clustering for Speaker Diarisation](https://arxiv.org/abs/1910.09703), 2019
@@ -55,6 +57,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 #### Joint diarization and ASR
 
+* [A Comparative Study on Speaker-attributed Automatic Speech Recognition in Multi-party Meetings](https://arxiv.org/abs/2203.16834), 2022
 * [Turn-to-Diarize: Online Speaker Diarization Constrained by Transformer Transducer Speaker Turn Detection](https://arxiv.org/abs/2109.11641), 2021
 * [Transcribe-to-Diarize: Neural Speaker Diarization for Unlimited Number of Speakers using End-to-End Speaker-Attributed ASR](https://arxiv.org/abs/2110.03151), 2021
 * [Joint Speech Recognition and Speaker Diarization via Sequence Transduction](https://arxiv.org/abs/1907.05337), 2019
@@ -68,6 +71,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 #### Challenges
 
+* [M2MeT: The ICASSP 2022 Multi-Channel Multi-Party Meeting Transcription Challenge](https://arxiv.org/abs/2110.07393), 2022
 * [The Hitachi-JHU DIHARD III system: Competitive end-to-end neural diarization and x-vector clustering systems combined by DOVER-Lap](https://arxiv.org/abs/2102.01363)
 * [Diarization is Hard: Some Experiences and Lessons Learned for the JHU
 Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs/interspeech_2018/sell18_interspeech.pdf), 2018
@@ -168,6 +172,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 
 | Link | Language | Description |
 | ---- | -------- | ----------- |
+| [FunASR](https://github.com/alibaba-damo-academy/FunASR) ![GitHub stars](https://img.shields.io/github/stars/alibaba-damo-academy/FunASR?style=social) | Python & PyTorch | FunASR is an open-source speech toolkit based on PyTorch, which aims at bridging the gap between academic researchs and industrial applications. |
 | [MiniVox](https://github.com/doerlbh/MiniVox) ![GitHub stars](https://img.shields.io/github/stars/doerlbh/MiniVox?style=social) | MATLAB | MiniVox is an open-source evaluation system for the online speaker diarization task. |
 | [SpeechBrain](https://github.com/speechbrain/speechbrain) ![GitHub stars](https://img.shields.io/github/stars/speechbrain/speechbrain?style=social) | Python & PyTorch | SpeechBrain is an open-source and all-in-one speech toolkit based on PyTorch. |
 | [SIDEKIT for diarization (s4d)](https://projets-lium.univ-lemans.fr/s4d/) | Python | An open source package extension of SIDEKIT for Speaker diarization. |
@@ -272,6 +277,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [Fisher English Training Part 2, Speech](https://catalog.ldc.upenn.edu/LDC2005S13) | [Fisher English Training Part 2, Transcripts](https://catalog.ldc.upenn.edu/LDC2005T19) | en | $7000.00 + $1000.00 |
 | [VoxConverse](https://github.com/joonson/voxconverse) | TBD | TBD | Free | VoxConverse is an audio-visual diarisation dataset consisting of over 50 hours of multispeaker clips of human speech, extracted from YouTube videos |
 | [MiniVox Benchmark](https://github.com/doerlbh/MiniVox) | [MiniVox Benchmark](https://github.com/doerlbh/MiniVox) | en | Free | MiniVox is an automatic framework to transform any speaker-labelled dataset into continuous speech datastream with episodically revealed label feedbacks. |
+| [The AliMeeting Corpus](https://github.com/yufan-aslp/AliMeeting) | Together with audios | zh | Free |  |
 
 ### Speaker embedding training sets
 
