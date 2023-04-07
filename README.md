@@ -352,3 +352,4 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | IBM     | [Watson Speech To Text API](https://www.ibm.com/watson/services/speech-to-text) |
 | DeepAffects | [Speaker Diarization API](https://www.deepaffects.com/diarization-api) |
 | Alibaba | [Tingwu (听悟)](https://tingwu.aliyuncs.com/trans) |
+| Microsoft | [Speaker Diarization API](https://azure.microsoft.com/en-us/services/cognitive-services/speaker-recognition/) |
