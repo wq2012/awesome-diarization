@@ -344,12 +344,12 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 
 ## Products
 
-| Company | Product |
-| ------- | ------- |
-| Google  | [Recorder app](https://support.google.com/pixelphone?p=recorder_speaker_labels) |
-| Google  | [Google Cloud Speech-to-Text API](https://cloud.google.com/speech-to-text/docs/multiple-voices) |
-| Amazon  | [Amazon Transcribe](https://aws.amazon.com/transcribe) |
-| IBM     | [Watson Speech To Text API](https://www.ibm.com/watson/services/speech-to-text) |
-| DeepAffects | [Speaker Diarization API](https://www.deepaffects.com/diarization-api) |
-| Alibaba | [Tingwu (听悟)](https://tingwu.aliyuncs.com/trans) |
-| Microsoft | [Speaker Diarization API](https://azure.microsoft.com/en-us/services/cognitive-services/speaker-recognition/) |
+| Company | Product                                                                                                                                      |
+| ------- |----------------------------------------------------------------------------------------------------------------------------------------------|
+| Google  | [Recorder app](https://support.google.com/pixelphone?p=recorder_speaker_labels)                                                              |
+| Google  | [Google Cloud Speech-to-Text API](https://cloud.google.com/speech-to-text/docs/multiple-voices)                                              |
+| Amazon  | [Amazon Transcribe](https://aws.amazon.com/transcribe)                                                                                       |
+| IBM     | [Watson Speech To Text API](https://www.ibm.com/watson/services/speech-to-text)                                                              |
+| DeepAffects | [Speaker Diarization API](https://www.deepaffects.com/diarization-api)                                                                       |
+| Alibaba | [Tingwu (听悟)](https://tingwu.aliyuncs.com/trans)                                                                                             |
+| Microsoft | [Azure Conversation Transcription API](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/conversation-transcription) |
