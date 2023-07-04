@@ -353,3 +353,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | DeepAffects | [Speaker Diarization API](https://www.deepaffects.com/diarization-api)                                                                       |
 | Alibaba | [Tingwu (听悟)](https://tingwu.aliyuncs.com/trans)                                                                                             |
 | Microsoft | [Azure Conversation Transcription API](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/conversation-transcription) |
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wq2012/awesome-diarization&type=Date)](https://star-history.com/#wq2012/awesome-diarization&Date)
