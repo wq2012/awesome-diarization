@@ -189,6 +189,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [RE-VERB](https://github.com/team-re-verb/RE-VERB) ![GitHub stars](https://img.shields.io/github/stars/team-re-verb/RE-VERB?style=social) | Python & JavaScript | RE: VERB is speaker diarization system, it allows the user to send/record audio of a conversation and receive timestamps of who spoke when. |
 | [StreamingSpeakerDiarization](https://github.com/juanmc2005/StreamingSpeakerDiarization/) ![GitHub stars](https://img.shields.io/github/stars/juanmc2005/StreamingSpeakerDiarization?style=social) | Python | Streaming speaker diarization, extends [pyannote.audio](https://github.com/pyannote/pyannote-audio) to online processing |
 | [simple_diarizer](https://github.com/cvqluu/simple_diarizer) | Python | Simplified diarization pipeline using some pretrained models. Made to be a simple as possible to go from an input audio file to diarized segments. |
+| [Picovoice Falcon](https://github.com/Picovoice/falcon) ![GitHub stars](https://img.shields.io/github/stars/Picovoice/falcon?style=social) | C & Python | A [lightweight, accurate, and fast](https://picovoice.ai/docs/benchmark/speaker-diarization/#accuracy) speaker diarization engine written in C and available in Python, running on CPU with minimal overhead. |
 
 
 ### Evaluation
