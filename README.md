@@ -44,6 +44,12 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [A review on speaker diarization systems and approaches](https://www.sciencedirect.com/science/article/abs/pii/S0167639312000696), 2012
 * [Speaker diarization: A review of recent research](http://www.eurecom.fr/fr/publication/3152/download/mm-publi-3152.pdf), 2010
 
+#### Large language model (LLM)
+
+* [DiarizationLM: Speaker Diarization Post-Processing with Large Language Models](https://arxiv.org/abs/2401.03506), 2024
+* [Enhancing Speaker Diarization with Large Language Models: A Contextual Beam Search Approach](https://arxiv.org/abs/2309.05248), 2023
+* [Lexical speaker error correction: Leveraging language models for speaker diarization error correction](https://arxiv.org/abs/2306.09313), 2023
+
 #### Supervised diarization
 
 * [TOLD: A Novel Two-Stage Overlap-Aware Framework for Speaker Diarization](https://arxiv.org/abs/2303.05397), 2023
