@@ -52,6 +52,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 #### Supervised diarization
 
+* [DiaPer: End-to-End Neural Diarization with Perceiver-Based Attractors](https://arxiv.org/abs/2312.04324), 2023
 * [TOLD: A Novel Two-Stage Overlap-Aware Framework for Speaker Diarization](https://arxiv.org/abs/2303.05397), 2023
 * [Speaker Overlap-aware Neural Diarization for Multi-party Meeting Analysis](https://arxiv.org/abs/2211.10243), 2022
 * [End-to-End Diarization for Variable Number of Speakers with Local-Global Networks and Discriminative Speaker Embeddings](https://arxiv.org/abs/2105.02096), 2021
@@ -196,6 +197,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [StreamingSpeakerDiarization](https://github.com/juanmc2005/StreamingSpeakerDiarization/) ![GitHub stars](https://img.shields.io/github/stars/juanmc2005/StreamingSpeakerDiarization?style=social) | Python | Streaming speaker diarization, extends [pyannote.audio](https://github.com/pyannote/pyannote-audio) to online processing |
 | [simple_diarizer](https://github.com/cvqluu/simple_diarizer) | Python | Simplified diarization pipeline using some pretrained models. Made to be a simple as possible to go from an input audio file to diarized segments. |
 | [Picovoice Falcon](https://github.com/Picovoice/falcon) ![GitHub stars](https://img.shields.io/github/stars/Picovoice/falcon?style=social) | C & Python | A [lightweight, accurate, and fast](https://picovoice.ai/docs/benchmark/speaker-diarization/#accuracy) speaker diarization engine written in C and available in Python, running on CPU with minimal overhead. |
+| [DiaPer](https://github.com/BUTSpeechFIT/DiaPer) ![GitHub stars](https://img.shields.io/github/stars/BUTSpeechFIT/DiaPer?style=social) | Python | Pytorch implementation for [DiaPer: End-to-End Neural Diarization with Perceiver-Based Attractors](https://arxiv.org/pdf/2312.04324.pdf) including models pre-trained on free and public data. |
 
 
 ### Evaluation
@@ -261,6 +263,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [gpuRIR](https://github.com/DavidDiazGuerra/gpuRIR) ![GitHub stars](https://img.shields.io/github/stars/DavidDiazGuerra/gpuRIR?style=social) | Python | Python library for Room Impulse Response (RIR) simulation with GPU acceleration |
 | [rir_simulator_python](https://github.com/sunits/rir_simulator_python) ![GitHub stars](https://img.shields.io/github/stars/sunits/rir_simulator_python?style=social) | Python | Room impulse response simulator using python |
 | [WavAugment](https://github.com/facebookresearch/WavAugment) ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/WavAugment?style=social) | Python & PyTorch | WavAugment performs data augmentation on audio data. The audio data is represented as pytorch tensors |
+| [EEND_dataprep](https://github.com/BUTSpeechFIT/EEND_dataprep) ![GitHub stars](https://img.shields.io/github/stars/BUTSpeechFIT/EEND_dataprep?style=social) | Bash & Python | Recipes for generating [simulated conversations](https://arxiv.org/abs/2204.00890) used to train end-to-end diarization models. |
 
 ### Other software
 
