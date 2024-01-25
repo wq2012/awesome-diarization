@@ -18,7 +18,6 @@
   * [Speaker embedding training sets](#Speaker-embedding-training-sets)
   * [Augmentation noise sources](#Augmentation-noise-sources)
 * [Conferences](#Conferences)
-* [Leaderboards](#Leaderboards)
 * [Other learning materials](#Other-learning-materials)
   * [Online courses](#Online-courses)
   * [Books](#Books)
