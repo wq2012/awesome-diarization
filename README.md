@@ -239,6 +239,8 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [pytorch_xvectors](https://github.com/manojpamk/pytorch_xvectors) ![GitHub stars](https://img.shields.io/github/stars/manojpamk/pytorch_xvectors?style=social) | x-vector | Python & PyTorch | PyTorch implementation of Voxceleb x-vectors. Additionaly, includes meta-learning architectures for embedding training. Evaluated with speaker diarization and speaker verification. |
 | [ASVtorch](https://gitlab.com/ville.vestman/asvtorch) | i-vector | Python & PyTorch | ASVtorch is a toolkit for automatic speaker recognition. |
 | [asv-subtools](https://github.com/Snowdar/asv-subtools) ![GitHub stars](https://img.shields.io/github/stars/Snowdar/asv-subtools?style=social) | i-vector & x-vector | Kaldi & PyTorch | ASV-Subtools is developed based on Pytorch and Kaldi for the task of speaker recognition, language identification, etc. The 'sub' of 'subtools' means that there are many modular tools and the parts constitute the whole. |
+| [WeSpeaker](https://github.com/wenet-e2e/wespeaker.git) ![GitHub stars](https://img.shields.io/github/stars/wenet-e2e/wespeaker?style=social) | x-vector & r-vector | Python & C++ & PyTorch | WeSpeaker is a research and production oriented speaker verification, recognition and diarization toolkit, which supports very strong recipes with on-the-fly data preparation, model training and evaluation, as well as runtime C++ codes. |
+
 
 ### Speaker change detection
 
