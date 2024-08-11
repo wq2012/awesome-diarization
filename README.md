@@ -244,6 +244,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [ASVtorch](https://gitlab.com/ville.vestman/asvtorch) | i-vector | Python & PyTorch | ASVtorch is a toolkit for automatic speaker recognition. |
 | [asv-subtools](https://github.com/Snowdar/asv-subtools) ![GitHub stars](https://img.shields.io/github/stars/Snowdar/asv-subtools?style=social) | i-vector & x-vector | Kaldi & PyTorch | ASV-Subtools is developed based on Pytorch and Kaldi for the task of speaker recognition, language identification, etc. The 'sub' of 'subtools' means that there are many modular tools and the parts constitute the whole. |
 | [WeSpeaker](https://github.com/wenet-e2e/wespeaker.git) ![GitHub stars](https://img.shields.io/github/stars/wenet-e2e/wespeaker?style=social) | x-vector & r-vector | Python & C++ & PyTorch | WeSpeaker is a research and production oriented speaker verification, recognition and diarization toolkit, which supports very strong recipes with on-the-fly data preparation, model training and evaluation, as well as runtime C++ codes. |
+| [ReDimNet](https://github.com/IDRnD/ReDimNet) ![GitHub stars](https://img.shields.io/github/stars/IDRnD/ReDimNet?style=social) | improved resnet | Pytorch | Neural network architecture presented in the paper [Reshape Dimensions Network for Speaker Recognition](https://arxiv.org/abs/2407.18223) |
 
 
 ### Speaker change detection
