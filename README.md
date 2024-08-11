@@ -212,6 +212,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [dscore](https://github.com/nryant/dscore) ![GitHub stars](https://img.shields.io/github/stars/nryant/dscore?style=social) | Python & Perl | Diarization scoring tools. |
 | [Sequence Match Accuracy](https://github.com/google/uis-rnn/blob/master/uisrnn/evals.py) | Python | Match the accuracy of two sequences with Hungarian algorithm. |
 | [spyder](https://github.com/desh2608/spyder) ![GitHub stars](https://img.shields.io/github/stars/desh2608/spyder?style=social) | Python & C++ | Simple Python package for fast DER computation. |
+| [CDER](https://github.com/SpeechClub/CDER_Metric) ![GitHub stars](https://img.shields.io/github/stars/SpeechClub/CDER_Metric?style=social) | Python | Conversational DER from [The Conversational Short-phrase Speaker Diarization (CSSD) Task: Dataset, Evaluation Metric and Baselines](https://arxiv.org/abs/2208.08042) |
 
 ### Clustering
 
