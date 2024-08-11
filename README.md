@@ -212,6 +212,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [dscore](https://github.com/nryant/dscore) ![GitHub stars](https://img.shields.io/github/stars/nryant/dscore?style=social) | Python & Perl | Diarization scoring tools. |
 | [Sequence Match Accuracy](https://github.com/google/uis-rnn/blob/master/uisrnn/evals.py) | Python | Match the accuracy of two sequences with Hungarian algorithm. |
 | [spyder](https://github.com/desh2608/spyder) ![GitHub stars](https://img.shields.io/github/stars/desh2608/spyder?style=social) | Python & C++ | Simple Python package for fast DER computation. |
+| [CDER](https://github.com/SpeechClub/CDER_Metric) ![GitHub stars](https://img.shields.io/github/stars/SpeechClub/CDER_Metric?style=social) | Python | Conversational DER from [The Conversational Short-phrase Speaker Diarization (CSSD) Task: Dataset, Evaluation Metric and Baselines](https://arxiv.org/abs/2208.08042) |
 
 ### Clustering
 
@@ -243,6 +244,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [ASVtorch](https://gitlab.com/ville.vestman/asvtorch) | i-vector | Python & PyTorch | ASVtorch is a toolkit for automatic speaker recognition. |
 | [asv-subtools](https://github.com/Snowdar/asv-subtools) ![GitHub stars](https://img.shields.io/github/stars/Snowdar/asv-subtools?style=social) | i-vector & x-vector | Kaldi & PyTorch | ASV-Subtools is developed based on Pytorch and Kaldi for the task of speaker recognition, language identification, etc. The 'sub' of 'subtools' means that there are many modular tools and the parts constitute the whole. |
 | [WeSpeaker](https://github.com/wenet-e2e/wespeaker.git) ![GitHub stars](https://img.shields.io/github/stars/wenet-e2e/wespeaker?style=social) | x-vector & r-vector | Python & C++ & PyTorch | WeSpeaker is a research and production oriented speaker verification, recognition and diarization toolkit, which supports very strong recipes with on-the-fly data preparation, model training and evaluation, as well as runtime C++ codes. |
+| [ReDimNet](https://github.com/IDRnD/ReDimNet) ![GitHub stars](https://img.shields.io/github/stars/IDRnD/ReDimNet?style=social) | improved resnet | Pytorch | Neural network architecture presented in the paper [Reshape Dimensions Network for Speaker Recognition](https://arxiv.org/abs/2407.18223) |
 
 
 ### Speaker change detection
@@ -250,6 +252,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | Link  | Language | Description |
 | ----  | -------- | ----------- |
 | [change_detection](https://github.com/yinruiqing/change_detection) ![GitHub stars](https://img.shields.io/github/stars/yinruiqing/change_detection?style=social) | Python & Keras | Code for Speaker Change Detection in Broadcast TV using Bidirectional Long Short-Term Memory Networks. |
+| [tidydiarize](https://github.com/akashmjn/tinydiarize) ![GitHub stars](https://img.shields.io/github/stars/akashmjn/tinydiarize?style=social) | Python | Diarization inside OpenAI Whisper decoder |
 
 ### Audio feature extraction
 
@@ -308,6 +311,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [BookTubeSpeech](https://users.wpi.edu/~jrwhitehill/BookTubeSpeech/index.html) | 8K | 8K | en | Free | Audio samples extracted from BookTube videos - videos where people share their opinions on books - from YouTube. The dataset can be downloaded using [BookTubeSpeech-download](https://github.com/wq2012/BookTubeSpeech-download). |
 | [DeepMine](http://data.deepmine.ir/en/index.html) | 540K | 1850 | fa, en | Unknown | A speech database in Persian and English designed to build and evaluate speaker verification, as well as Persian ASR systems. |
 | [NISP-Dataset](https://github.com/iiscleap/NISP-Dataset) | ? | 345 | hi, kn, ml, ta, te (all Indian languages) | Free | This dataset contains speech recordings along with speaker physical parameters (height, weight, ... ) as well as regional information and linguistic information. |
+| [VoxBlink2](https://voxblink2.github.io/) | 10M | 100k+ | 18 lanugages (en, pt, es, ru, ar, ...) | CC BY-NC-SA 4.0 | Multilingual dataset from [VoxBlink2: A 100K+ Speaker Recognition Corpus and the Open-Set Speaker-Identification Benchmark](https://arxiv.org/abs/2407.11510) |
 
 ### Augmentation noise sources
 
