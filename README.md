@@ -251,6 +251,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | Link  | Language | Description |
 | ----  | -------- | ----------- |
 | [change_detection](https://github.com/yinruiqing/change_detection) ![GitHub stars](https://img.shields.io/github/stars/yinruiqing/change_detection?style=social) | Python & Keras | Code for Speaker Change Detection in Broadcast TV using Bidirectional Long Short-Term Memory Networks. |
+| [tidydiarize](https://github.com/akashmjn/tinydiarize) ![GitHub stars](https://img.shields.io/github/stars/akashmjn/tinydiarize?style=social) | Python | Diarization inside OpenAI Whisper decoder |
 
 ### Audio feature extraction
 
