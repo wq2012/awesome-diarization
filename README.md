@@ -199,6 +199,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [simple_diarizer](https://github.com/cvqluu/simple_diarizer) | Python | Simplified diarization pipeline using some pretrained models. Made to be a simple as possible to go from an input audio file to diarized segments. |
 | [Picovoice Falcon](https://github.com/Picovoice/falcon) ![GitHub stars](https://img.shields.io/github/stars/Picovoice/falcon?style=social) | C & Python | A [lightweight, accurate, and fast](https://picovoice.ai/docs/benchmark/speaker-diarization/#accuracy) speaker diarization engine written in C and available in Python, running on CPU with minimal overhead. |
 | [DiaPer](https://github.com/BUTSpeechFIT/DiaPer) ![GitHub stars](https://img.shields.io/github/stars/BUTSpeechFIT/DiaPer?style=social) | Python | Pytorch implementation for [DiaPer: End-to-End Neural Diarization with Perceiver-Based Attractors](https://arxiv.org/pdf/2312.04324.pdf) including models pre-trained on free and public data. |
+| [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) ![GitHub stars](https://img.shields.io/github/stars/k2-fsa/sherpa-onnx?style=social) | C++ & C & `C#` & Dart & Go & Java & JavaScript & Kotlin & Pascal & Python & Rust & Swift | Support speaker diarization, speech recognition, and text-to speech on various platforms with various language bindings. |
 
 
 ### Evaluation
