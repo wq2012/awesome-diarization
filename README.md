@@ -374,6 +374,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | IBM     | [Watson Speech To Text API](https://www.ibm.com/watson/services/speech-to-text)                                                              |
 | DeepAffects | [Speaker Diarization API](https://www.deepaffects.com/diarization-api)                                                                       |
 | Alibaba | [Tingwu (听悟)](https://tingwu.aliyuncs.com/trans)                                                                                             |
+| Kviskr | [Kviskr](https://kviskr.no) - macOS app for meeting transcription with speaker diarization, using Whisper.cpp and Pyannote on CoreML |
 | Microsoft | [Azure Conversation Transcription API](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/conversation-transcription) |
 
 ## Star History
