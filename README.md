@@ -179,7 +179,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 
 | Link | Language | Description |
 | ---- | -------- | ----------- |
-| [FunASR](https://github.com/alibaba-damo-academy/FunASR) ![GitHub stars](https://img.shields.io/github/stars/alibaba-damo-academy/FunASR?style=social) | Python & PyTorch | FunASR is an open-source speech toolkit based on PyTorch, which aims at bridging the gap between academic researchs and industrial applications. |
+| [FunASR](https://github.com/modelscope/FunASR) ![GitHub stars](https://img.shields.io/github/stars/modelscope/FunASR?style=social) | Python & PyTorch | Industrial-grade speech recognition toolkit with built-in speaker diarization (cam++), VAD, ASR (SenseVoice/Paraformer), and punctuation. 50+ languages, 170x realtime. |
 | [MiniVox](https://github.com/doerlbh/MiniVox) ![GitHub stars](https://img.shields.io/github/stars/doerlbh/MiniVox?style=social) | MATLAB | MiniVox is an open-source evaluation system for the online speaker diarization task. |
 | [SpeechBrain](https://github.com/speechbrain/speechbrain) ![GitHub stars](https://img.shields.io/github/stars/speechbrain/speechbrain?style=social) | Python & PyTorch | SpeechBrain is an open-source and all-in-one speech toolkit based on PyTorch. |
 | [SIDEKIT for diarization (s4d)](https://projets-lium.univ-lemans.fr/s4d/) | Python | An open source package extension of SIDEKIT for Speaker diarization. |
