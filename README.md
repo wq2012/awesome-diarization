@@ -375,6 +375,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | DeepAffects | [Speaker Diarization API](https://www.deepaffects.com/diarization-api)                                                                       |
 | Alibaba | [Tingwu (听悟)](https://tingwu.aliyuncs.com/trans)                                                                                             |
 | Kviskr | [Kviskr](https://kviskr.no) - macOS app for meeting transcription with speaker diarization, using Whisper.cpp and Pyannote on CoreML |
+| Ariso AI | [OATS](https://github.com/ariso-ai/oats) - open-source macOS app for meeting transcription and notes with speaker diarization and optional fully offline mode |
 | Microsoft | [Azure Conversation Transcription API](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/conversation-transcription) |
 
 ## Star History
