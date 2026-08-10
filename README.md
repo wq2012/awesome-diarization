@@ -377,6 +377,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | Kviskr | [Kviskr](https://kviskr.no) - macOS app for meeting transcription with speaker diarization, using Whisper.cpp and Pyannote on CoreML |
 | Ariso AI | [OATS](https://github.com/ariso-ai/oats) - open-source macOS app for meeting transcription and notes with speaker diarization and optional fully offline mode |
 | Microsoft | [Azure Conversation Transcription API](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/conversation-transcription) |
+| BRAINIALL | [Diarized Transcription API](https://fasuizu-br.github.io/brainiall-transcription-skill/) - metered API for authorized Brazilian Portuguese and Spanish recordings with word timestamps and speaker labels |
 
 ## Star History
 
