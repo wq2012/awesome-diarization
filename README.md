@@ -381,4 +381,4 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wq2012/awesome-diarization&type=Date)](https://star-history.com/#wq2012/awesome-diarization&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=wq2012/awesome-diarization&type=Date)](https://star-history.dera.page/#wq2012/awesome-diarization&Date)
