@@ -215,6 +215,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [Sequence Match Accuracy](https://github.com/google/uis-rnn/blob/master/uisrnn/evals.py) | Python | Match the accuracy of two sequences with Hungarian algorithm. |
 | [spyder](https://github.com/desh2608/spyder) ![GitHub stars](https://img.shields.io/github/stars/desh2608/spyder?style=social) | Python & C++ | Simple Python package for fast DER computation. |
 | [CDER](https://github.com/SpeechClub/CDER_Metric) ![GitHub stars](https://img.shields.io/github/stars/SpeechClub/CDER_Metric?style=social) | Python | Conversational DER from [The Conversational Short-phrase Speaker Diarization (CSSD) Task: Dataset, Evaluation Metric and Baselines](https://arxiv.org/abs/2208.08042) |
+| [Selective Collar](https://github.com/shahmananv13/selective_collar/) ![GitHub stars](https://img.shields.io/github/stars/shahmananv13/selective_collar?style=social) | Python | Selective collar for mitigating evaluation bias in speaker diarization from [Beyond Uniform Forgiveness: Introducing the Selective Collar to Mitigate Evaluation Bias in Speaker Diarization](https://doi.org/10.1109/ACCESS.2026.3729661) |
 
 ### Clustering
 
