@@ -382,6 +382,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | Microsoft | [Azure Conversation Transcription API](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/conversation-transcription) |
 | BRAINIALL | [Diarized Transcription API](https://fasuizu-br.github.io/brainiall-transcription-skill/) - metered API for authorized Brazilian Portuguese and Spanish recordings with word timestamps and speaker labels |
 | diarize | [diarize.io](https://diarize.io) - hosted API and web app for speaker-labeled transcripts of YouTube and other video links |
+| GeiserX | [akou](https://github.com/GeiserX/akou) - open-source macOS app that records calls and meetings and transcribes them on-device, with speaker labels from NVIDIA Nemotron 3 Diarization |
 
 ## Star History
 
