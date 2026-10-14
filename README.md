@@ -201,6 +201,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [DiaPer](https://github.com/BUTSpeechFIT/DiaPer) ![GitHub stars](https://img.shields.io/github/stars/BUTSpeechFIT/DiaPer?style=social) | Python | Pytorch implementation for [DiaPer: End-to-End Neural Diarization with Perceiver-Based Attractors](https://arxiv.org/pdf/2312.04324.pdf) including models pre-trained on free and public data. |
 | [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) ![GitHub stars](https://img.shields.io/github/stars/k2-fsa/sherpa-onnx?style=social) | C++ & C & `C#` & Dart & Go & Java & JavaScript & Kotlin & Pascal & Python & Rust & Swift | Support speaker diarization, speech recognition, and text-to speech on various platforms with various language bindings. |
 | [FluidAudio](https://github.com/FluidInference/FluidAudio) ![GitHub stars](https://img.shields.io/github/stars/FluidInference/FluidAudio?style=social) | Swift | A native Swift speaker diarization library for Apple platforms, using CoreML for efficient, real-time audio processing with high accuracy. |
+| [speakrs](https://github.com/avencera/speakrs) ![GitHub stars](https://img.shields.io/github/stars/avencera/speakrs?style=social) | Rust | Rust implementation of the pyannote community-1 diarization pipeline (segmentation, embedding, PLDA, VBx clustering) with native CPU, CUDA, and CoreML backends and no Python runtime. 7.0% DER on VoxConverse dev at 1786x realtime on an RTX 4090. |
 
 
 ### Evaluation
