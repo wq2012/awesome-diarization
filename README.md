@@ -285,6 +285,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [DOVER-Lap](https://github.com/desh2608/dover-lap) ![GitHub stars](https://img.shields.io/github/stars/desh2608/dover-lap?style=social) | Python | Python package for combining diarization system outputs |
 | [Diar-az](https://github.com/cadia-lvl/diar-az) | Python | Data formatting tool to support the ruv-di dataset. Kaldi to Gecko to Kaldi and corpus and back |  |
 | [voxsolo](https://github.com/dhayanithi-svaromance/voxsolo) ![GitHub stars](https://img.shields.io/github/stars/dhayanithi-svaromance/voxsolo?style=social) | Python | Verbatim per-speaker audio from diarization: keeps one speaker bit-exact, silences other speakers and overlapped speech; exports EDL/SRT/VTT/Audacity labels for editors. |
+| [VoxLock](https://github.com/arbazsiddiqui/voxlock) ![GitHub stars](https://img.shields.io/github/stars/arbazsiddiqui/voxlock?style=social) | Python | Streaming target speaker extraction: keeps one speaker's voice and removes the other voices in the room before speech recognition. 27M parameters, 24 ms algorithmic latency on CPU, ONNX and safetensors weights. |
 
 ## Datasets
 
