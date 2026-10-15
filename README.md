@@ -201,6 +201,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [DiaPer](https://github.com/BUTSpeechFIT/DiaPer) ![GitHub stars](https://img.shields.io/github/stars/BUTSpeechFIT/DiaPer?style=social) | Python | Pytorch implementation for [DiaPer: End-to-End Neural Diarization with Perceiver-Based Attractors](https://arxiv.org/pdf/2312.04324.pdf) including models pre-trained on free and public data. |
 | [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) ![GitHub stars](https://img.shields.io/github/stars/k2-fsa/sherpa-onnx?style=social) | C++ & C & `C#` & Dart & Go & Java & JavaScript & Kotlin & Pascal & Python & Rust & Swift | Support speaker diarization, speech recognition, and text-to speech on various platforms with various language bindings. |
 | [FluidAudio](https://github.com/FluidInference/FluidAudio) ![GitHub stars](https://img.shields.io/github/stars/FluidInference/FluidAudio?style=social) | Swift | A native Swift speaker diarization library for Apple platforms, using CoreML for efficient, real-time audio processing with high accuracy. |
+| [speakrs](https://github.com/avencera/speakrs) ![GitHub stars](https://img.shields.io/github/stars/avencera/speakrs?style=social) | Rust | Rust implementation of the pyannote community-1 diarization pipeline (segmentation, embedding, PLDA, VBx clustering) with native CPU, CUDA, and CoreML backends and no Python runtime. 7.0% DER on VoxConverse dev at 1786x realtime on an RTX 4090. |
 
 
 ### Evaluation
@@ -284,6 +285,8 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [DOVER-Lap](https://github.com/desh2608/dover-lap) ![GitHub stars](https://img.shields.io/github/stars/desh2608/dover-lap?style=social) | Python | Python package for combining diarization system outputs |
 | [Diar-az](https://github.com/cadia-lvl/diar-az) | Python | Data formatting tool to support the ruv-di dataset. Kaldi to Gecko to Kaldi and corpus and back |  |
 | [voxsolo](https://github.com/dhayanithi-svaromance/voxsolo) ![GitHub stars](https://img.shields.io/github/stars/dhayanithi-svaromance/voxsolo?style=social) | Python | Verbatim per-speaker audio from diarization: keeps one speaker bit-exact, silences other speakers and overlapped speech; exports EDL/SRT/VTT/Audacity labels for editors. |
+| [VoxLock](https://github.com/arbazsiddiqui/voxlock) ![GitHub stars](https://img.shields.io/github/stars/arbazsiddiqui/voxlock?style=social) | Python | Streaming target speaker extraction: keeps one speaker's voice and removes the other voices in the room before speech recognition. 27M parameters, 24 ms algorithmic latency on CPU, ONNX and safetensors weights. |
+| [akou](https://github.com/GeiserX/akou) ![GitHub stars](https://img.shields.io/github/stars/GeiserX/akou?style=social) | TypeScript | Open-source macOS app that records calls and meetings and transcribes them on-device, with speaker labels from NVIDIA Nemotron 3 Diarization. |
 
 ## Datasets
 
@@ -382,7 +385,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | Microsoft | [Azure Conversation Transcription API](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/conversation-transcription) |
 | BRAINIALL | [Diarized Transcription API](https://fasuizu-br.github.io/brainiall-transcription-skill/) - metered API for authorized Brazilian Portuguese and Spanish recordings with word timestamps and speaker labels |
 | diarize | [diarize.io](https://diarize.io) - hosted API and web app for speaker-labeled transcripts of YouTube and other video links |
-| GeiserX | [akou](https://github.com/GeiserX/akou) - open-source macOS app that records calls and meetings and transcribes them on-device, with speaker labels from NVIDIA Nemotron 3 Diarization |
+| Screenpipe | [Screenpipe](https://screenpipe.com) - Desktop screen/audio history with speaker diarization, local storage, and optional cloud transcription (source-available, Screenpipe Commercial License) |
 
 ## Star History
 
