@@ -287,6 +287,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [voxsolo](https://github.com/dhayanithi-svaromance/voxsolo) ![GitHub stars](https://img.shields.io/github/stars/dhayanithi-svaromance/voxsolo?style=social) | Python | Verbatim per-speaker audio from diarization: keeps one speaker bit-exact, silences other speakers and overlapped speech; exports EDL/SRT/VTT/Audacity labels for editors. |
 | [VoxLock](https://github.com/arbazsiddiqui/voxlock) ![GitHub stars](https://img.shields.io/github/stars/arbazsiddiqui/voxlock?style=social) | Python | Streaming target speaker extraction: keeps one speaker's voice and removes the other voices in the room before speech recognition. 27M parameters, 24 ms algorithmic latency on CPU, ONNX and safetensors weights. |
 | [akou](https://github.com/GeiserX/akou) ![GitHub stars](https://img.shields.io/github/stars/GeiserX/akou?style=social) | TypeScript | Open-source macOS app that records calls and meetings and transcribes them on-device, with speaker labels from NVIDIA Nemotron 3 Diarization. |
+| [Local Transcriber](https://github.com/teconomix/local-transcriber) ![GitHub stars](https://img.shields.io/github/stars/teconomix/local-transcriber?style=social) | Python & Swift | macOS menu bar app that records calls and meetings and transcribes them on-device (Whisper large-v3-turbo on MLX), with pyannote diarization per audio track and a voice database that recognizes known speakers. |
 
 ## Datasets
 
