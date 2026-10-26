@@ -2,28 +2,38 @@
 
 ## Table of contents
 
-* [Overview](#Overview)
-* [Publications](#Publications)
-* [Software](#Software)
-  * [Framework](#Framework)
-  * [Evaluation](#Evaluation)
-  * [Clustering](#Clustering)
-  * [Speaker embedding](#Speaker-embedding)
-  * [Speaker change detection](#Speaker-change-detection)
-  * [Audio feature extraction](#Audio-feature-extraction)
-  * [Audio data augmentation](#Audio-data-augmentation)
-  * [Other sotware](#Other-software)
-* [Datasets](#Datasets)
-  * [Diarization datasets](#Diarization-datasets)
-  * [Speaker embedding training sets](#Speaker-embedding-training-sets)
-  * [Augmentation noise sources](#Augmentation-noise-sources)
-* [Conferences](#Conferences)
-* [Other learning materials](#Other-learning-materials)
-  * [Online courses](#Online-courses)
-  * [Books](#Books)
-  * [Tech blogs](#Tech-blogs)
-  * [Video tutorials](#Video-tutorials)
-* [Products](#Products)
+* [Overview](#overview)
+* [Software](#software)
+  * [Framework](#framework)
+  * [Evaluation](#evaluation)
+  * [Clustering](#clustering)
+  * [Speaker embedding](#speaker-embedding)
+  * [Speaker change detection](#speaker-change-detection)
+  * [Audio feature extraction](#audio-feature-extraction)
+  * [Audio data augmentation](#audio-data-augmentation)
+  * [Other software](#other-software)
+* [Datasets](#datasets)
+  * [Diarization datasets](#diarization-datasets)
+  * [Speaker embedding training sets](#speaker-embedding-training-sets)
+  * [Augmentation noise sources](#augmentation-noise-sources)
+* [Conferences](#conferences)
+* [Products](#products)
+* [Publications](#publications)
+  * [Special topics](#special-topics)
+    * [Review & survey papers](#review--survey-papers)
+    * [Large language model (LLM)](#large-language-model-llm)
+    * [Supervised diarization](#supervised-diarization)
+    * [Joint diarization and ASR](#joint-diarization-and-asr)
+    * [Online speaker diarization](#online-speaker-diarization)
+    * [Challenges](#challenges)
+    * [Audio-Visual Speaker Diarization](#audio-visual-speaker-diarization)
+  * [Other](#other) ([2026](#2026) · [2025](#2025) · [2024](#2024) · [2023](#2023) · [2022](#2022) · [2021](#2021) · [2020](#2020) · [2019](#2019) · [2018](#2018) · [2017](#2017) · [2016](#2016) · [2015](#2015) · [2014](#2014) · [2013](#2013) · [2011](#2011) · [2009](#2009) · [2008](#2008) · [2006](#2006))
+* [Other learning materials](#other-learning-materials)
+  * [Online courses](#online-courses)
+  * [Books](#books)
+  * [Tech blogs](#tech-blogs)
+  * [Video tutorials](#video-tutorials)
+* [Star History](#star-history)
 
 ## Overview
 
@@ -32,146 +42,6 @@ This is a curated list of awesome Speaker Diarization papers, libraries, dataset
 The purpose of this repo is to organize the world’s resources for speaker diarization, and make them universally accessible and useful.
 
 To add items to this page, simply send a pull request. ([contributing guide](CONTRIBUTING.md))
-
-## Publications
-
-### Special topics
-
-#### Review & survey papers
-
-* [A Review of Speaker Diarization: Recent Advances with Deep Learning](https://arxiv.org/pdf/2101.09624.pdf), 2021
-* [A review on speaker diarization systems and approaches](https://www.sciencedirect.com/science/article/abs/pii/S0167639312000696), 2012
-* [Speaker diarization: A review of recent research](http://www.eurecom.fr/fr/publication/3152/download/mm-publi-3152.pdf), 2010
-
-#### Large language model (LLM)
-
-* [DiarizationLM: Speaker Diarization Post-Processing with Large Language Models](https://arxiv.org/abs/2401.03506), 2024
-* [Enhancing Speaker Diarization with Large Language Models: A Contextual Beam Search Approach](https://arxiv.org/abs/2309.05248), 2023
-* [Lexical speaker error correction: Leveraging language models for speaker diarization error correction](https://arxiv.org/abs/2306.09313), 2023
-
-#### Supervised diarization
-
-* [DiaPer: End-to-End Neural Diarization with Perceiver-Based Attractors](https://arxiv.org/abs/2312.04324), 2023
-* [TOLD: A Novel Two-Stage Overlap-Aware Framework for Speaker Diarization](https://arxiv.org/abs/2303.05397), 2023
-* [Speaker Overlap-aware Neural Diarization for Multi-party Meeting Analysis](https://arxiv.org/abs/2211.10243), 2022
-* [End-to-End Diarization for Variable Number of Speakers with Local-Global Networks and Discriminative Speaker Embeddings](https://arxiv.org/abs/2105.02096), 2021
-* [Supervised online diarization with sample mean loss for multi-domain data](https://arxiv.org/abs/1911.01266), 2019
-* [Discriminative Neural Clustering for Speaker Diarisation](https://arxiv.org/abs/1910.09703), 2019
-* [End-to-End Neural Speaker Diarization with Permutation-Free Objectives](https://arxiv.org/abs/1909.05952), 2019
-* [End-to-End Neural Speaker Diarization with Self-attention](https://arxiv.org/abs/1909.06247), 2019
-* [Fully Supervised Speaker Diarization](https://arxiv.org/abs/1810.04719), 2018
-
-#### Joint diarization and ASR
-
-* [A Comparative Study on Speaker-attributed Automatic Speech Recognition in Multi-party Meetings](https://arxiv.org/abs/2203.16834), 2022
-* [Turn-to-Diarize: Online Speaker Diarization Constrained by Transformer Transducer Speaker Turn Detection](https://arxiv.org/abs/2109.11641), 2021
-* [Transcribe-to-Diarize: Neural Speaker Diarization for Unlimited Number of Speakers using End-to-End Speaker-Attributed ASR](https://arxiv.org/abs/2110.03151), 2021
-* [Joint Speech Recognition and Speaker Diarization via Sequence Transduction](https://arxiv.org/abs/1907.05337), 2019
-* [Says who? Deep learning models for joint speech recognition, segmentation and diarization](https://ieeexplore.ieee.org/abstract/document/8462375), 2018
-
-#### Online speaker diarization
-
-* [Speaker Diarization as a Fully Online Bandit Learning Problem in MiniVox](https://proceedings.mlr.press/v157/lin21c/lin21c.pdf), 2021
-* [Online Speaker Diarization with Relation Network](https://arxiv.org/abs/2009.08162), 2020
-* [VoiceID on the Fly: A Speaker Recognition System that Learns from Scratch](https://www.isca-speech.org/archive/pdfs/interspeech_2020/lin20b_interspeech.pdf), 2020
-
-#### Challenges
-
-* [M2MeT: The ICASSP 2022 Multi-Channel Multi-Party Meeting Transcription Challenge](https://arxiv.org/abs/2110.07393), 2022
-* [The Hitachi-JHU DIHARD III system: Competitive end-to-end neural diarization and x-vector clustering systems combined by DOVER-Lap](https://arxiv.org/abs/2102.01363)
-* [Diarization is Hard: Some Experiences and Lessons Learned for the JHU
-Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs/interspeech_2018/sell18_interspeech.pdf), 2018
-* [ODESSA at Albayzin Speaker Diarization Challenge 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-5_Patino.pdf), 2018
-* [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf), 2018
-
-#### Audio-Visual Speaker Diarization
-
-* [AVA-AVD: Audio-Visual Speaker Diarization in the Wild](https://dl.acm.org/doi/abs/10.1145/3503161.3548027), 2022
-* [DyViSE: Dynamic Vision-Guided Speaker Embedding for Audio-Visual Speaker Diarization](https://ieeexplore.ieee.org/document/9948860), 2022
-* [End-to-End Audio-Visual Neural Speaker Diarization](https://isca-speech.org/archive/interspeech_2022/he22c_interspeech.html), 2022
-* [MSDWild: Multi-modal Speaker Diarization Dataset in the Wild](https://isca-speech.org/archive/interspeech_2022/liu22t_interspeech.html), 2022
-
-
-
-### Other
-
-#### 2021
-
-* [Overlap-aware low-latency online speaker diarization based on end-to-end local segmentation](https://arxiv.org/abs/2109.06483)
-* [End-to-end speaker segmentation for overlap-aware resegmentation](https://www.isca-speech.org/archive/interspeech_2021/bredin21_interspeech.html)
-* [DIVE: End-to-end Speech Diarization via Iterative Speaker Embedding](https://arxiv.org/abs/2105.13802)
-* [DOVER-Lap: A method for combining overlap-aware diarization outputs](https://arxiv.org/abs/2011.01997)
-* [Bayesian HMM clustering of x-vector sequences (VBx) in speaker diarization: Theory, implementation and analysis on standard tasks](https://www.sciencedirect.com/science/article/pii/S0885230821000619)
-* [AISHELL-4: An Open Source Dataset for Speech Enhancement, Separation, Recognition and Speaker Diarization in Conference Scenario](https://arxiv.org/abs/2104.03603), 2021
-
-#### 2020
-
-* [An End-to-End Speaker Diarization Service for improving Multimedia Content Access](https://nem-initiative.org/wp-content/uploads/2020/07/1-4-an_end_to_end_speaker_diarization_service_for_improving_multimedia_content_access.pdf)
-* [Spot the conversation: speaker diarisation in the wild](https://arxiv.org/abs/2007.01216)
-* [Speaker Diarization with Region Proposal Network](https://arxiv.org/abs/2002.06220)
-* [Target-Speaker Voice Activity Detection: a Novel Approach for Multi-Speaker Diarization in a Dinner Party Scenario](https://arxiv.org/abs/2005.07272)
-
-#### 2019
-
-* [Overlap-aware diarization: resegmentation using neural end-to-end overlapped speech detection](https://arxiv.org/abs/1910.11646)
-* [Speaker diarization using latent space clustering in generative adversarial network](https://arxiv.org/abs/1910.11398)
-* [A study of semi-supervised speaker diarization system using gan mixture model](https://arxiv.org/abs/1910.11416)
-* [Learning deep representations by multilayer bootstrap networks for speaker diarization](https://arxiv.org/abs/1910.10969)
-* [Enhancements for Audio-only Diarization Systems](https://arxiv.org/abs/1909.00082)
-* [LSTM based Similarity Measurement with Spectral Clustering for Speaker Diarization](https://arxiv.org/abs/1907.10393)
-* [Meeting Transcription Using Virtual Microphone Arrays](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/DenmarkTechReport-5ccb8b095c8f3.pdf)
-* [Speaker diarisation using 2D self-attentive combination of embeddings](https://arxiv.org/abs/1902.03190)
-* [Speaker Diarization with Lexical Information](https://arxiv.org/abs/2004.06756)
-
-#### 2018
-
-* [Neural speech turn segmentation and affinity propagation for speaker diarization](https://hal.archives-ouvertes.fr/hal-01912236/)
-* [Multimodal Speaker Segmentation and Diarization using Lexical and Acoustic Cues via Sequence to Sequence Neural Networks](https://arxiv.org/abs/1805.10731)
-* [Joint Speaker Diarization and Recognition Using Convolutional and Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/8461666)
-
-#### 2017
-
-* [Speaker Diarization with LSTM](https://arxiv.org/abs/1710.10468)
-* [Speaker diarization using deep neural network embeddings](http://danielpovey.com/files/2017_icassp_diarization_embeddings.pdf)
-* [Speaker diarization using convolutional neural network for statistics accumulation refinement](https://pdfs.semanticscholar.org/35c4/0fde977932d8a3cd24f5a1724c9dbca8b38d.pdf)
-* [pyannote. metrics: a toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0411.PDF)
-* [Speaker Change Detection in Broadcast TV using Bidirectional Long Short-Term Memory Networks](https://pdfs.semanticscholar.org/edff/b62b32ffcc2b5cc846e26375cb300fac9ecc.pdf)
-* [Speaker Diarization using Deep Recurrent Convolutional Neural Networks for Speaker Embeddings](https://arxiv.org/abs/1708.02840)
-
-#### 2016
-
-* [A Speaker Diarization System for Studying Peer-Led Team Learning Groups](https://arxiv.org/pdf/1606.07136.pdf)
-
-#### 2015
-
-* [Diarization resegmentation in the factor analysis subspace](https://engineering.jhu.edu/hltcoe/wp-content/uploads/sites/92/2016/10/Sell_Garcia-Romero_2015A.pdf)
-
-#### 2014
-
-* [A study of the cosine distance-based mean shift for telephone speech diarization](https://www.researchgate.net/profile/Patrick_Kenny/publication/260661427_A_Study_of_the_Cosine_Distance-Based_Mean_Shift_for_Telephone_Speech_Diarization/links/0c96053270d2eaa133000000.pdf)
-* [Speaker diarization with PLDA i-vector scoring and unsupervised calibration](https://ieeexplore.ieee.org/abstract/document/7078610)
-* [Artificial neural network features for speaker diarization](https://ieeexplore.ieee.org/abstract/document/7078608)
-
-#### 2013
-* [Unsupervised methods for speaker diarization: An integrated and iterative approach](http://groups.csail.mit.edu/sls/publications/2013/Shum_IEEE_Oct-2013.pdf)
-
-#### 2011
-
-* [PLDA-based Clustering for Speaker Diarization of Broadcast Streams](https://pdfs.semanticscholar.org/0175/a752c5c72cadc7c0b899fd15f2f6b93c3335.pdf)
-* [Speaker diarization of meetings based on speaker role n-gram models](https://publications.idiap.ch/downloads/papers/2011/Valente_ICASSP2011_2011.pdf)
-
-#### 2009
-
-* [Speaker Diarization for Meeting Room Audio](https://wiki.inf.ed.ac.uk/twiki/pub/CSTR/ListenSemester2_2009_10/sun_IS2009_SpDia_meeting.PDF)
-
-#### 2008
-
-* [Stream-based speaker segmentation using speaker factors and eigenvoices](https://www.researchgate.net/profile/Pietro_Laface/publication/224313019_Stream-based_speaker_segmentation_using_speaker_factors_and_eigenvoices/links/5770fe8608ae10de639dc121.pdf)
-
-#### 2006
-
-* [An overview of automatic speaker diarization systems](https://alize.univ-avignon.fr/doc/publis/06_IEEE-TASP_Tranter.pdf)
-* [A spectral clustering approach to speaker diarization](http://www.ifp.illinois.edu/~hning2/papers/Ning_spectral.pdf)
 
 ## Software
 
@@ -186,7 +56,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) ![GitHub stars](https://img.shields.io/github/stars/tyiannak/pyAudioAnalysis?style=social) | Python | Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications. |
 | [AaltoASR](https://github.com/aalto-speech/speaker-diarization) ![GitHub stars](https://img.shields.io/github/stars/aalto-speech/speaker-diarization?style=social) | Python & Perl | Speaker diarization scripts, based on AaltoASR. |
 | [LIUM SpkDiarization](https://projets-lium.univ-lemans.fr/spkdiarization/) | Java | LIUM_SpkDiarization is a software dedicated to speaker diarization (i.e. speaker segmentation and clustering). It is written in Java, and includes the most recent developments in the domain (as of 2013). |
-| [kaldi-asr](https://github.com/kaldi-asr/kaldi/tree/master/egs/callhome_diarization) [![Build Status](https://travis-ci.com/kaldi-asr/kaldi.svg?branch=master)](https://travis-ci.com/kaldi-asr/kaldi) | Bash | Example scripts for speaker diarization on a portion of CALLHOME used in the 2000 NIST speaker recognition evaluation. |
+| [kaldi-asr](https://github.com/kaldi-asr/kaldi/tree/master/egs/callhome_diarization) | Bash | Example scripts for speaker diarization on a portion of CALLHOME used in the 2000 NIST speaker recognition evaluation. |
 | [kaldi-speaker-diarization](https://github.com/cadia-lvl/kaldi-speaker-diarization) ![GitHub stars](https://img.shields.io/github/stars/cadia-lvl/kaldi-speaker-diarization?style=social) | Bash | Icelandic speaker diarization scripts using kaldi. |
 | [Alize LIA_SpkSeg](https://alize.univ-avignon.fr/) | C++ | ALIZÉ is an opensource platform for speaker recognition. LIA_SpkSeg is the tools for speaker diarization. |
 | [pyannote-audio](https://github.com/pyannote/pyannote-audio) ![GitHub stars](https://img.shields.io/github/stars/pyannote/pyannote-audio?style=social) | Python | Neural building blocks for speaker diarization: speech activity detection, speaker change detection, speaker embedding. |
@@ -202,13 +72,14 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) ![GitHub stars](https://img.shields.io/github/stars/k2-fsa/sherpa-onnx?style=social) | C++ & C & `C#` & Dart & Go & Java & JavaScript & Kotlin & Pascal & Python & Rust & Swift | Support speaker diarization, speech recognition, and text-to speech on various platforms with various language bindings. |
 | [FluidAudio](https://github.com/FluidInference/FluidAudio) ![GitHub stars](https://img.shields.io/github/stars/FluidInference/FluidAudio?style=social) | Swift | A native Swift speaker diarization library for Apple platforms, using CoreML for efficient, real-time audio processing with high accuracy. |
 | [speakrs](https://github.com/avencera/speakrs) ![GitHub stars](https://img.shields.io/github/stars/avencera/speakrs?style=social) | Rust | Rust implementation of the pyannote community-1 diarization pipeline (segmentation, embedding, PLDA, VBx clustering) with native CPU, CUDA, and CoreML backends and no Python runtime. 7.0% DER on VoxConverse dev at 1786x realtime on an RTX 4090. |
+| [diarizers](https://github.com/diarizers-community/diarizers) ![GitHub stars](https://img.shields.io/github/stars/diarizers-community/diarizers?style=social) [![Build Status](https://github.com/diarizers-community/diarizers/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/diarizers-community/diarizers/actions/workflows/pythonapp.yml) | Python & PyTorch | Unified pipeline for ASR, standalone speaker diarization (neural segmentation, ECAPA-TDNN speaker embeddings, spectral clustering), and DiarizationLM post-processing, with an interactive [Hugging Face Space](https://huggingface.co/spaces/diarizers-community/diarizers). |
 
 
 ### Evaluation
 
 | Link | Language | Description |
 | ---- | -------- | ----------- |
-| [pyannote-metrics](https://github.com/pyannote/pyannote-metrics) ![GitHub stars](https://img.shields.io/github/stars/pyannote/pyannote-metrics?style=social) [![Build Status](https://travis-ci.org/pyannote/pyannote-metrics.svg?branch=master)](https://travis-ci.org/pyannote/pyannote-metrics)  | Python| A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems. |
+| [pyannote-metrics](https://github.com/pyannote/pyannote-metrics) ![GitHub stars](https://img.shields.io/github/stars/pyannote/pyannote-metrics?style=social) | Python | A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems. |
 | [SimpleDER](https://github.com/wq2012/SimpleDER) ![GitHub stars](https://img.shields.io/github/stars/wq2012/SimpleDER?style=social) ![Python package](https://github.com/wq2012/SimpleDER/workflows/Python%20package/badge.svg) | Python | A lightweight library to compute Diarization Error Rate (DER). |
 | [DiarizationLM](https://github.com/google/speaker-id/blob/master/DiarizationLM/README.md) ![GitHub stars](https://img.shields.io/github/stars/google/speaker-id?style=social) [![Build Status](https://github.com/google/speaker-id/actions/workflows/python-app-diarizationlm.yml/badge.svg)](https://github.com/google/speaker-id/actions/workflows/python-app-diarizationlm.yml) | Python | Implements Word Error Rate (WER), Word Diarization Error Rate (WDER), and concatenated minimum-permutation Word Error Rate (cpWER). |
 | NIST md-eval | Perl | (1) modified [md-eval.pl](http://www1.icsi.berkeley.edu/~knoxm/dia/) from [Mary Tai Knox](http://www1.icsi.berkeley.edu/~knoxm); (2) [md-eval-v21.pl](https://github.com/jitendrab/btp/blob/master/c_code/single_diag_gaussian_no_viterbi/md-eval-v21.pl) from [jitendra](https://github.com/jitendrab); (3) [md-eval-22.pl](https://github.com/nryant/dscore/blob/master/scorelib/md-eval-22.pl) from [nryant](https://github.com/nryant) |
@@ -222,11 +93,11 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 
 | Link | Language | Description |
 | ---- | -------- | ----------- |
-| [uis-rnn](https://github.com/google/uis-rnn) ![GitHub stars](https://img.shields.io/github/stars/google/uis-rnn?style=social) [![Build Status](https://travis-ci.org/google/uis-rnn.svg?branch=master)](https://travis-ci.org/google/uis-rnn) | Python & PyTorch | Google's Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, for Fully Supervised Speaker Diarization. This clustering algorithm is **supervised**. |
+| [uis-rnn](https://github.com/google/uis-rnn) ![GitHub stars](https://img.shields.io/github/stars/google/uis-rnn?style=social) | Python & PyTorch | Google's Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, for Fully Supervised Speaker Diarization. This clustering algorithm is **supervised**. |
 | [uis-rnn-sml](https://github.com/DonkeyShot21/uis-rnn-sml) ![GitHub stars](https://img.shields.io/github/stars/DonkeyShot21/uis-rnn-sml?style=social) | Python & PyTorch | A variant of UIS-RNN, for the paper Supervised Online Diarization with Sample Mean Loss for Multi-Domain Data. |
 | [DNC](https://github.com/FlorianKrey/DNC) ![GitHub stars](https://img.shields.io/github/stars/FlorianKrey/DNC?style=social) | Python & ESPnet | Transformer-based Discriminative Neural Clustering (DNC) for Speaker Diarisation. Like UIS-RNN, it is **supervised**. |
-| [SpectralCluster](https://github.com/wq2012/SpectralCluster) ![GitHub stars](https://img.shields.io/github/stars/wq2012/SpectralCluster?style=social) [![Build Status](https://travis-ci.org/wq2012/SpectralCluster.svg?branch=master)](https://travis-ci.org/wq2012/SpectralCluster) | Python | Spectral clustering with affinity matrix refinement operations, auto-tune, and speaker turn constraints. |
-| [sklearn.cluster](https://scikit-learn.org/stable/modules/clustering.html) [![Build Status]( https://api.travis-ci.org/scikit-learn/scikit-learn.svg?branch=master)](https://travis-ci.org/scikit-learn/scikit-learn) | Python | scikit-learn clustering algorithms. |
+| [SpectralCluster](https://github.com/wq2012/SpectralCluster) ![GitHub stars](https://img.shields.io/github/stars/wq2012/SpectralCluster?style=social) | Python | Spectral clustering with affinity matrix refinement operations, auto-tune, and speaker turn constraints. |
+| [sklearn.cluster](https://scikit-learn.org/stable/modules/clustering.html) | Python | scikit-learn clustering algorithms. |
 | [PLDA](https://github.com/RaviSoji/plda) ![GitHub stars](https://img.shields.io/github/stars/RaviSoji/plda?style=social) | Python | Probabilistic Linear Discriminant Analysis & classification, written in Python. |
 | [PLDA](https://github.com/mrouvier/plda) ![GitHub stars](https://img.shields.io/github/stars/mrouvier/plda?style=social) | C++ | Open-source implementation of simplified PLDA (Probabilistic Linear Discriminant Analysis). |
 | [Auto-Tuning Spectral Clustering](https://github.com/tango4j/Auto-Tuning-Spectral-Clustering.git) ![GitHub stars](https://img.shields.io/github/stars/tango4j/Auto-Tuning-Spectral-Clustering?style=social) | Python | Auto-tuning Spectral Clustering method that does not need development set or supervised tuning. |
@@ -281,7 +152,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 
 | Link | Language | Description |
 | ---- | -------- | ----------- |
-| [VB Diarization](https://github.com/wq2012/VB_diarization) ![GitHub stars](https://img.shields.io/github/stars/wq2012/VB_diarization?style=social) [![Build Status](https://travis-ci.org/wq2012/VB_diarization.svg?branch=master)](https://travis-ci.org/wq2012/VB_diarization) | Python | VB Diarization with Eigenvoice and HMM Priors. |
+| [VB Diarization](https://github.com/wq2012/VB_diarization) ![GitHub stars](https://img.shields.io/github/stars/wq2012/VB_diarization?style=social) | Python | VB Diarization with Eigenvoice and HMM Priors. |
 | [DOVER-Lap](https://github.com/desh2608/dover-lap) ![GitHub stars](https://img.shields.io/github/stars/desh2608/dover-lap?style=social) | Python | Python package for combining diarization system outputs |
 | [Diar-az](https://github.com/cadia-lvl/diar-az) | Python | Data formatting tool to support the ruv-di dataset. Kaldi to Gecko to Kaldi and corpus and back |  |
 | [voxsolo](https://github.com/dhayanithi-svaromance/voxsolo) ![GitHub stars](https://img.shields.io/github/stars/dhayanithi-svaromance/voxsolo?style=social) | Python | Verbatim per-speaker audio from diarization: keeps one speaker bit-exact, silences other speakers and overlapped speech; exports EDL/SRT/VTT/Audacity labels for editors. |
@@ -302,7 +173,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [The AMI Meeting Corpus](http://groups.inf.ed.ac.uk/ami/corpus/) | Together with audios (need to be processed) | Multiple | Free | [License](http://groups.inf.ed.ac.uk/ami/corpus/license.shtml) |
 | [Fisher English Training Speech Part 1 Speech](https://catalog.ldc.upenn.edu/LDC2004S13) | [Fisher English Training Speech Part 1 Transcripts](https://catalog.ldc.upenn.edu/LDC2004T19)| en | $7000.00 + $1000.00 |
 | [Fisher English Training Part 2, Speech](https://catalog.ldc.upenn.edu/LDC2005S13) | [Fisher English Training Part 2, Transcripts](https://catalog.ldc.upenn.edu/LDC2005T19) | en | $7000.00 + $1000.00 |
-| [VoxConverse](https://github.com/joonson/voxconverse) | TBD | TBD | Free | VoxConverse is an audio-visual diarisation dataset consisting of over 50 hours of multispeaker clips of human speech, extracted from YouTube videos |
+| [VoxConverse](https://github.com/joonson/voxconverse) | [Dev](https://github.com/joonson/voxconverse/tree/master/dev) & [Test](https://github.com/joonson/voxconverse/tree/master/test) RTTMs | Multiple (mostly en) | Free | VoxConverse is an audio-visual diarisation dataset consisting of 63.8 hours of multispeaker clips of human speech, extracted from YouTube videos |
 | [MiniVox Benchmark](https://github.com/doerlbh/MiniVox) | [MiniVox Benchmark](https://github.com/doerlbh/MiniVox) | en | Free | MiniVox is an automatic framework to transform any speaker-labelled dataset into continuous speech datastream with episodically revealed label feedbacks. |
 | [The AliMeeting Corpus](https://github.com/yufan-aslp/AliMeeting) | Together with audios | zh | Free |  |
 
@@ -313,14 +184,14 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | [TIMIT](https://catalog.ldc.upenn.edu/LDC93S1) | 6K+ | 630 | en | $250.00 | Published in 1993, the TIMIT corpus of read speech is one of the earliest speaker recognition datasets. |
 | [VCTK](https://homepages.inf.ed.ac.uk/jyamagis/page3/page58/page58.html) | 43K+ | 109 | en | Free | Most were selected from a newspaper plus the Rainbow Passage and an elicitation paragraph intended to identify the speaker's accent. |
 | [LibriSpeech](http://www.openslr.org/12) | 292K | 2K+ | en | Free | Large-scale (1000 hours) corpus of read English speech. |
-| [Multilingual LibriSpeech (MLS)](http://openslr.org/94/) | ? | ? | en, de, nl, es, fr, it, pt, po | Free | Multilingual LibriSpeech (MLS) dataset is a large multilingual corpus suitable for speech research. The dataset is derived from read audiobooks from LibriVox and consists of 8 languages - English, German, Dutch, Spanish, French, Italian, Portuguese, Polish. |
+| [Multilingual LibriSpeech (MLS)](http://openslr.org/94/) | 12.3M | 6.3K+ | en, de, nl, es, fr, it, pt, pl | Free | Multilingual LibriSpeech (MLS) dataset is a large multilingual corpus suitable for speech research. The dataset is derived from read audiobooks from LibriVox and consists of 8 languages - English, German, Dutch, Spanish, French, Italian, Portuguese, Polish. |
 | [LibriVox](https://librivox.org/) | 180K | 9K+ | Multiple | Free | Free public domain audiobooks. LibriSpeech is a processed subset of LibriVox. Each original unsegmented utterance could be very long. |
 | [VoxCeleb 1&2](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/) | 1M+ | 7K | Multiple | Free | VoxCeleb is an audio-visual dataset consisting of short clips of human speech, extracted from interview videos uploaded to YouTube. |
 | [The Spoken Wikipedia Corpora](https://nats.gitlab.io/swc/) | 5K | 879 | en, de, nl | Free | Volunteer readers reading Wikipedia articles. |
 | [CN-Celeb](http://www.openslr.org/82/) | 130K+ | 1K | zh | Free | A Free Chinese Speaker Recognition Corpus Released by CSLT@Tsinghua University. |
 | [BookTubeSpeech](https://users.wpi.edu/~jrwhitehill/BookTubeSpeech/index.html) | 8K | 8K | en | Free | Audio samples extracted from BookTube videos - videos where people share their opinions on books - from YouTube. The dataset can be downloaded using [BookTubeSpeech-download](https://github.com/wq2012/BookTubeSpeech-download). |
-| [DeepMine](http://data.deepmine.ir/en/index.html) | 540K | 1850 | fa, en | Unknown | A speech database in Persian and English designed to build and evaluate speaker verification, as well as Persian ASR systems. |
-| [NISP-Dataset](https://github.com/iiscleap/NISP-Dataset) | ? | 345 | hi, kn, ml, ta, te (all Indian languages) | Free | This dataset contains speech recordings along with speaker physical parameters (height, weight, ... ) as well as regional information and linguistic information. |
+| [DeepMine](http://data.deepmine.ir/en/index.html) | 540K | 1850 | fa, en | Paid (contact authors) | A speech database in Persian and English designed to build and evaluate speaker verification, as well as Persian ASR systems. |
+| [NISP-Dataset](https://github.com/iiscleap/NISP-Dataset) | 28K+ | 345 | en, hi, kn, ml, ta, te | Free | This dataset contains speech recordings along with speaker physical parameters (height, weight, ... ) as well as regional information and linguistic information. |
 | [VoxBlink2](https://voxblink2.github.io/) | 10M | 100k+ | 18 lanugages (en, pt, es, ru, ar, ...) | CC BY-NC-SA 4.0 | Multilingual dataset from [VoxBlink2: A 100K+ Speaker Recognition Corpus and the Open-Set Speaker-Identification Benchmark](https://arxiv.org/abs/2407.11510) |
 
 ### Augmentation noise sources
@@ -328,7 +199,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | Name | Utterances | Pricing | Additional information |
 | ---- | ---------- | ------- | ---------------------- |
 | [AudioSet](https://research.google.com/audioset/) | 2M | Free | A large-scale dataset of manually annotated audio events. |
-| [MUSAN](https://www.openslr.org/17/) | N/A | Free | MUSAN is a corpus of music, speech, and noise recordings. |
+| [MUSAN](https://www.openslr.org/17/) | 2K+ (~109 hours) | Free | MUSAN is a corpus of music, speech, and noise recordings. |
 
 ## Conferences
 
@@ -341,6 +212,190 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | ASRU                | Biennial  | 6 + 2 (ref) | IEEE         | Yes          |
 | WASPAA              | Biennial  | 4 + 1 (ref) | IEEE         | No           |
 | IJCB                | Annual    | 8       | IEEE & IAPR TC-4 | Yes          |
+
+## Products
+
+| Company | Product                                                                                                                                      |
+| ------- |----------------------------------------------------------------------------------------------------------------------------------------------|
+| Google  | [Recorder app](https://support.google.com/pixelphone?p=recorder_speaker_labels)                                                              |
+| Google  | [Google Cloud Speech-to-Text API](https://cloud.google.com/speech-to-text/docs/multiple-voices)                                              |
+| Google  | [Gemini 3.5 Transcribe](https://ai.google.dev/gemini-api/docs/models/gemini-3.5-transcribe)                                                     |
+| Amazon  | [Amazon Transcribe](https://aws.amazon.com/transcribe)                                                                                       |
+| IBM     | [Watson Speech To Text API](https://www.ibm.com/watson/services/speech-to-text)                                                              |
+| DeepAffects | [Speaker Diarization API](https://www.deepaffects.com/diarization-api)                                                                       |
+| Alibaba | [Tingwu (听悟)](https://tingwu.aliyuncs.com/trans)                                                                                             |
+| Kviskr | [Kviskr](https://kviskr.no) - macOS app for meeting transcription with speaker diarization, using Whisper.cpp and Pyannote on CoreML |
+| Ariso AI | [OATS](https://github.com/ariso-ai/oats) - open-source macOS app for meeting transcription and notes with speaker diarization and optional fully offline mode |
+| Microsoft | [Azure Conversation Transcription API](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/conversation-transcription) |
+| BRAINIALL | [Diarized Transcription API](https://fasuizu-br.github.io/brainiall-transcription-skill/) - metered API for authorized Brazilian Portuguese and Spanish recordings with word timestamps and speaker labels |
+| diarize | [diarize.io](https://diarize.io) - hosted API and web app for speaker-labeled transcripts of YouTube and other video links |
+| Screenpipe | [Screenpipe](https://screenpipe.com) - Desktop screen/audio history with speaker diarization, local storage, and optional cloud transcription (source-available, Screenpipe Commercial License) |
+
+## Publications
+
+### Special topics
+
+#### Review & survey papers
+
+* [A Review of Speaker Diarization: Recent Advances with Deep Learning](https://arxiv.org/pdf/2101.09624.pdf), 2021
+* [A review on speaker diarization systems and approaches](https://www.sciencedirect.com/science/article/abs/pii/S0167639312000696), 2012
+* [Speaker diarization: A review of recent research](http://www.eurecom.fr/fr/publication/3152/download/mm-publi-3152.pdf), 2010
+
+#### Large language model (LLM)
+
+* [DiarizationLM: Speaker Diarization Post-Processing with Large Language Models](https://arxiv.org/abs/2401.03506), 2024
+* [Enhancing Speaker Diarization with Large Language Models: A Contextual Beam Search Approach](https://arxiv.org/abs/2309.05248), 2023
+* [Lexical speaker error correction: Leveraging language models for speaker diarization error correction](https://arxiv.org/abs/2306.09313), 2023
+
+#### Supervised diarization
+
+* [DiaPer: End-to-End Neural Diarization with Perceiver-Based Attractors](https://arxiv.org/abs/2312.04324), 2023
+* [TOLD: A Novel Two-Stage Overlap-Aware Framework for Speaker Diarization](https://arxiv.org/abs/2303.05397), 2023
+* [Speaker Overlap-aware Neural Diarization for Multi-party Meeting Analysis](https://arxiv.org/abs/2211.10243), 2022
+* [End-to-End Diarization for Variable Number of Speakers with Local-Global Networks and Discriminative Speaker Embeddings](https://arxiv.org/abs/2105.02096), 2021
+* [Supervised online diarization with sample mean loss for multi-domain data](https://arxiv.org/abs/1911.01266), 2019
+* [Discriminative Neural Clustering for Speaker Diarisation](https://arxiv.org/abs/1910.09703), 2019
+* [End-to-End Neural Speaker Diarization with Permutation-Free Objectives](https://arxiv.org/abs/1909.05952), 2019
+* [End-to-End Neural Speaker Diarization with Self-attention](https://arxiv.org/abs/1909.06247), 2019
+* [Fully Supervised Speaker Diarization](https://arxiv.org/abs/1810.04719), 2018
+
+#### Joint diarization and ASR
+
+* [A Comparative Study on Speaker-attributed Automatic Speech Recognition in Multi-party Meetings](https://arxiv.org/abs/2203.16834), 2022
+* [Turn-to-Diarize: Online Speaker Diarization Constrained by Transformer Transducer Speaker Turn Detection](https://arxiv.org/abs/2109.11641), 2021
+* [Transcribe-to-Diarize: Neural Speaker Diarization for Unlimited Number of Speakers using End-to-End Speaker-Attributed ASR](https://arxiv.org/abs/2110.03151), 2021
+* [Joint Speech Recognition and Speaker Diarization via Sequence Transduction](https://arxiv.org/abs/1907.05337), 2019
+* [Says who? Deep learning models for joint speech recognition, segmentation and diarization](https://ieeexplore.ieee.org/abstract/document/8462375), 2018
+
+#### Online speaker diarization
+
+* [Speaker Diarization as a Fully Online Bandit Learning Problem in MiniVox](https://proceedings.mlr.press/v157/lin21c/lin21c.pdf), 2021
+* [VoiceID on the Fly: A Speaker Recognition System that Learns from Scratch](https://www.isca-speech.org/archive/pdfs/interspeech_2020/lin20b_interspeech.pdf), 2020
+
+#### Challenges
+
+* [M2MeT: The ICASSP 2022 Multi-Channel Multi-Party Meeting Transcription Challenge](https://arxiv.org/abs/2110.07393), 2022
+* [The Hitachi-JHU DIHARD III system: Competitive end-to-end neural diarization and x-vector clustering systems combined by DOVER-Lap](https://arxiv.org/abs/2102.01363)
+* [Diarization is Hard: Some Experiences and Lessons Learned for the JHU
+Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs/interspeech_2018/sell18_interspeech.pdf), 2018
+* [ODESSA at Albayzin Speaker Diarization Challenge 2018](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_AE-5_Patino.pdf), 2018
+* [Joint Discriminative Embedding Learning, Speech Activity and Overlap Detection for the DIHARD Challenge](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2304.pdf), 2018
+
+#### Audio-Visual Speaker Diarization
+
+* [AVA-AVD: Audio-Visual Speaker Diarization in the Wild](https://dl.acm.org/doi/abs/10.1145/3503161.3548027), 2022
+* [DyViSE: Dynamic Vision-Guided Speaker Embedding for Audio-Visual Speaker Diarization](https://ieeexplore.ieee.org/document/9948860), 2022
+* [End-to-End Audio-Visual Neural Speaker Diarization](https://isca-speech.org/archive/interspeech_2022/he22c_interspeech.html), 2022
+* [MSDWild: Multi-modal Speaker Diarization Dataset in the Wild](https://isca-speech.org/archive/interspeech_2022/liu22t_interspeech.html), 2022
+
+
+
+### Other
+
+#### 2026
+
+* [SpeakerLM: End-to-End Versatile Speaker Diarization and Recognition with Multimodal Large Language Models](https://arxiv.org/abs/2508.06372)
+* [Efficient and Robust Speaker Diarization via Structured Pruning of Self-Supervised Models](https://arxiv.org/abs/2506.18623)
+* [Train Short, Infer Long: Speech-LLM Enables Zero-Shot Streamable Joint ASR and Diarization on Long Audio](https://arxiv.org/abs/2511.16046)
+
+#### 2025
+
+* [Leveraging Self-Supervised Learning for Speaker Diarization](https://arxiv.org/abs/2409.09408)
+* [3D-Speaker-Toolkit: An Open-Source Toolkit for Multimodal Speaker Verification and Diarization](https://arxiv.org/abs/2403.19971)
+* [Sortformer: A Novel Approach for Permutation-Resolved Speaker Supervision in Speech-to-Text Systems](https://arxiv.org/abs/2409.06656)
+
+#### 2024
+
+* [The CHiME-8 DASR Challenge for Generalizable and Array Agnostic Distant Automatic Speech Recognition and Diarization](https://arxiv.org/abs/2407.16447)
+* [TS-SEP: Joint Diarization and Separation Conditioned on Estimated Speaker Embeddings](https://arxiv.org/abs/2303.03849)
+* [One Model to Rule Them All? Towards End-to-End Joint Speaker Diarization and Speech Recognition](https://arxiv.org/abs/2310.01688)
+
+#### 2023
+
+* [WhisperX: Time-Accurate Speech Transcription of Long-Form Audio](https://arxiv.org/abs/2303.00747)
+* [pyannote.audio 2.1 speaker diarization pipeline: principle, benchmark, and recipe](https://www.isca-archive.org/interspeech_2023/bredin23_interspeech.html)
+* [Powerset multi-class cross entropy loss for neural speaker diarization](https://arxiv.org/abs/2310.13025)
+
+#### 2022
+
+* [Encoder-Decoder Based Attractors for End-to-End Neural Diarization](https://arxiv.org/abs/2106.10654)
+* [From Simulated Mixtures to Simulated Conversations as Training Data for End-to-End Neural Diarization](https://arxiv.org/abs/2204.00890)
+* [Multi-scale Speaker Diarization with Dynamic Scale Weighting](https://arxiv.org/abs/2203.15974)
+
+#### 2021
+
+* [Overlap-aware low-latency online speaker diarization based on end-to-end local segmentation](https://arxiv.org/abs/2109.06483)
+* [End-to-end speaker segmentation for overlap-aware resegmentation](https://www.isca-speech.org/archive/interspeech_2021/bredin21_interspeech.html)
+* [DIVE: End-to-end Speech Diarization via Iterative Speaker Embedding](https://arxiv.org/abs/2105.13802)
+* [DOVER-Lap: A method for combining overlap-aware diarization outputs](https://arxiv.org/abs/2011.01997)
+* [Bayesian HMM clustering of x-vector sequences (VBx) in speaker diarization: Theory, implementation and analysis on standard tasks](https://www.sciencedirect.com/science/article/pii/S0885230821000619)
+* [AISHELL-4: An Open Source Dataset for Speech Enhancement, Separation, Recognition and Speaker Diarization in Conference Scenario](https://arxiv.org/abs/2104.03603), 2021
+
+#### 2020
+
+* [Spot the conversation: speaker diarisation in the wild](https://arxiv.org/abs/2007.01216)
+* [Speaker Diarization with Region Proposal Network](https://arxiv.org/abs/2002.06220)
+* [Target-Speaker Voice Activity Detection: a Novel Approach for Multi-Speaker Diarization in a Dinner Party Scenario](https://arxiv.org/abs/2005.07272)
+
+#### 2019
+
+* [Overlap-aware diarization: resegmentation using neural end-to-end overlapped speech detection](https://arxiv.org/abs/1910.11646)
+* [Speaker diarization using latent space clustering in generative adversarial network](https://arxiv.org/abs/1910.11398)
+* [A study of semi-supervised speaker diarization system using gan mixture model](https://arxiv.org/abs/1910.11416)
+* [Enhancements for Audio-only Diarization Systems](https://arxiv.org/abs/1909.00082)
+* [LSTM based Similarity Measurement with Spectral Clustering for Speaker Diarization](https://arxiv.org/abs/1907.10393)
+* [Meeting Transcription Using Virtual Microphone Arrays](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/DenmarkTechReport-5ccb8b095c8f3.pdf)
+* [Speaker diarisation using 2D self-attentive combination of embeddings](https://arxiv.org/abs/1902.03190)
+* [Speaker Diarization with Lexical Information](https://arxiv.org/abs/2004.06756)
+
+#### 2018
+
+* [Neural speech turn segmentation and affinity propagation for speaker diarization](https://hal.archives-ouvertes.fr/hal-01912236/)
+* [Multimodal Speaker Segmentation and Diarization using Lexical and Acoustic Cues via Sequence to Sequence Neural Networks](https://arxiv.org/abs/1805.10731)
+
+#### 2017
+
+* [Speaker Diarization with LSTM](https://arxiv.org/abs/1710.10468)
+* [Speaker diarization using deep neural network embeddings](http://danielpovey.com/files/2017_icassp_diarization_embeddings.pdf)
+* [Speaker diarization using convolutional neural network for statistics accumulation refinement](https://pdfs.semanticscholar.org/35c4/0fde977932d8a3cd24f5a1724c9dbca8b38d.pdf)
+* [pyannote. metrics: a toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0411.PDF)
+* [Speaker Change Detection in Broadcast TV using Bidirectional Long Short-Term Memory Networks](https://pdfs.semanticscholar.org/edff/b62b32ffcc2b5cc846e26375cb300fac9ecc.pdf)
+* [Speaker Diarization using Deep Recurrent Convolutional Neural Networks for Speaker Embeddings](https://arxiv.org/abs/1708.02840)
+
+#### 2016
+
+* [A Speaker Diarization System for Studying Peer-Led Team Learning Groups](https://arxiv.org/pdf/1606.07136.pdf)
+
+#### 2015
+
+* [Diarization resegmentation in the factor analysis subspace](https://engineering.jhu.edu/hltcoe/wp-content/uploads/sites/92/2016/10/Sell_Garcia-Romero_2015A.pdf)
+
+#### 2014
+
+* [A study of the cosine distance-based mean shift for telephone speech diarization](https://www.researchgate.net/profile/Patrick_Kenny/publication/260661427_A_Study_of_the_Cosine_Distance-Based_Mean_Shift_for_Telephone_Speech_Diarization/links/0c96053270d2eaa133000000.pdf)
+* [Speaker diarization with PLDA i-vector scoring and unsupervised calibration](https://ieeexplore.ieee.org/abstract/document/7078610)
+* [Artificial neural network features for speaker diarization](https://ieeexplore.ieee.org/abstract/document/7078608)
+
+#### 2013
+* [Unsupervised methods for speaker diarization: An integrated and iterative approach](http://groups.csail.mit.edu/sls/publications/2013/Shum_IEEE_Oct-2013.pdf)
+
+#### 2011
+
+* [PLDA-based Clustering for Speaker Diarization of Broadcast Streams](https://pdfs.semanticscholar.org/0175/a752c5c72cadc7c0b899fd15f2f6b93c3335.pdf)
+* [Speaker diarization of meetings based on speaker role n-gram models](https://publications.idiap.ch/downloads/papers/2011/Valente_ICASSP2011_2011.pdf)
+
+#### 2009
+
+* [Speaker Diarization for Meeting Room Audio](https://wiki.inf.ed.ac.uk/twiki/pub/CSTR/ListenSemester2_2009_10/sun_IS2009_SpDia_meeting.PDF)
+
+#### 2008
+
+* [Stream-based speaker segmentation using speaker factors and eigenvoices](https://www.researchgate.net/profile/Pietro_Laface/publication/224313019_Stream-based_speaker_segmentation_using_speaker_factors_and_eigenvoices/links/5770fe8608ae10de639dc121.pdf)
+
+#### 2006
+
+* [An overview of automatic speaker diarization systems](https://alize.univ-avignon.fr/doc/publis/06_IEEE-TASP_Tranter.pdf)
+* [A spectral clustering approach to speaker diarization](http://www.ifp.illinois.edu/~hning2/papers/Ning_spectral.pdf)
 
 ## Other learning materials
 
@@ -369,24 +424,6 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 * [Speaker Diarization: Optimal Clustering and Learning Speaker Embeddings](https://www.youtube.com/watch?v=vcyB8xb1-ys) by Microsoft Research
 * [Robust Speaker Diarization for Meetings: the ICSI system](https://www.youtube.com/watch?v=kEcUcfLmIS0) by Microsoft Research
 * [【机器之心&博文视点】入门声纹技术｜第二讲：声纹分割聚类与其他应用](https://www.youtube.com/watch?v=HE9JW8yKYRk) by Quan Wang
-
-## Products
-
-| Company | Product                                                                                                                                      |
-| ------- |----------------------------------------------------------------------------------------------------------------------------------------------|
-| Google  | [Recorder app](https://support.google.com/pixelphone?p=recorder_speaker_labels)                                                              |
-| Google  | [Google Cloud Speech-to-Text API](https://cloud.google.com/speech-to-text/docs/multiple-voices)                                              |
-| Google  | [Gemini 3.5 Transcribe](https://ai.google.dev/gemini-api/docs/models/gemini-3.5-transcribe)                                                     |
-| Amazon  | [Amazon Transcribe](https://aws.amazon.com/transcribe)                                                                                       |
-| IBM     | [Watson Speech To Text API](https://www.ibm.com/watson/services/speech-to-text)                                                              |
-| DeepAffects | [Speaker Diarization API](https://www.deepaffects.com/diarization-api)                                                                       |
-| Alibaba | [Tingwu (听悟)](https://tingwu.aliyuncs.com/trans)                                                                                             |
-| Kviskr | [Kviskr](https://kviskr.no) - macOS app for meeting transcription with speaker diarization, using Whisper.cpp and Pyannote on CoreML |
-| Ariso AI | [OATS](https://github.com/ariso-ai/oats) - open-source macOS app for meeting transcription and notes with speaker diarization and optional fully offline mode |
-| Microsoft | [Azure Conversation Transcription API](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/conversation-transcription) |
-| BRAINIALL | [Diarized Transcription API](https://fasuizu-br.github.io/brainiall-transcription-skill/) - metered API for authorized Brazilian Portuguese and Spanish recordings with word timestamps and speaker labels |
-| diarize | [diarize.io](https://diarize.io) - hosted API and web app for speaker-labeled transcripts of YouTube and other video links |
-| Screenpipe | [Screenpipe](https://screenpipe.com) - Desktop screen/audio history with speaker diarization, local storage, and optional cloud transcription (source-available, Screenpipe Commercial License) |
 
 ## Star History
 
