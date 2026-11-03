@@ -241,6 +241,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 | Kviskr | [Kviskr](https://kviskr.no) - macOS app for local dictation and meeting transcription with speaker diarization using NB-Whisper |
 | diarize | [diarize.io](https://diarize.io) - hosted API and web app for speaker-labeled transcripts of YouTube and other video links |
 | Screenpipe | [Screenpipe](https://screenpipe.com) - Desktop screen/audio history with speaker diarization, local storage, and optional cloud transcription (source-available, Screenpipe Commercial License) |
+| Lokutor | [Lokutor](https://lokutor.com) - own speech models (Versa TTS, Conv STT), API and agents; speech-to-text with speaker diarization ([docs](https://docs.lokutor.com/api-reference/speech-to-text)) |
 
 ## Publications
 
