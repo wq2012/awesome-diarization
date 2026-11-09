@@ -241,6 +241,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 | Kviskr | [Kviskr](https://kviskr.no) - macOS app for local dictation and meeting transcription with speaker diarization using NB-Whisper |
 | diarize | [diarize.io](https://diarize.io) - hosted API and web app for speaker-labeled transcripts of YouTube and other video links |
 | Screenpipe | [Screenpipe](https://screenpipe.com) - Desktop screen/audio history with speaker diarization, local storage, and optional cloud transcription (source-available, Screenpipe Commercial License) |
+| Daniial Zagidullin (indie) | [Transcribe Video: To The Text](https://video2text.ttt.so/) - freemium iPhone app that transcribes video/audio files, YouTube/Vimeo links and live recordings into speaker-labeled transcripts, with AI summaries and TXT/DOCX export |
 
 ## Publications
 
