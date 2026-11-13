@@ -164,6 +164,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 | [OATS](https://github.com/ariso-ai/oats) ![GitHub stars](https://img.shields.io/github/stars/ariso-ai/oats?style=social) | Rust & TypeScript | Open-source macOS app for meeting transcription and notes with speaker diarization (FluidAudio) and optional fully offline mode. |
 | [akou](https://github.com/GeiserX/akou) ![GitHub stars](https://img.shields.io/github/stars/GeiserX/akou?style=social) | TypeScript & Rust | Open-source macOS app that records calls and meetings and transcribes them on-device, with speaker labels from NVIDIA Nemotron 3 Diarization. |
 | [Local Transcriber](https://github.com/teconomix/local-transcriber) ![GitHub stars](https://img.shields.io/github/stars/teconomix/local-transcriber?style=social) | Python & Swift | macOS menu bar app that records calls and meetings and transcribes them on-device (Whisper large-v3-turbo on MLX), with pyannote diarization per audio track and a voice database that recognizes known speakers. |
+| [Earshot](https://github.com/Bouliw/earshot) ![GitHub stars](https://img.shields.io/github/stars/Bouliw/earshot?style=social) | Swift & C# | Open-source macOS menu bar app that transcribes one app's audio on-device with whisper.cpp, then separates the speakers with FluidAudio diarization. In Teams, lines get the names shown in the live captions. |
 
 ## Datasets
 
