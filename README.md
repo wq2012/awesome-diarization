@@ -424,6 +424,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Speaker Diarization: Separation of Multiple Speakers in an Audio File](https://medium.com/datadriveninvestor/speaker-diarization-22121f1264b1) by [Jaspreet Singh](https://medium.com/@jaspreetuseducation)
 * [Speaker Diarization with Kaldi](https://medium.com/towards-data-science/speaker-diarization-with-kaldi-e30301b05cc8) by [Yoav Ramon](https://medium.com/@yoavramon)
 * [Who spoke when! How to Build your own Speaker Diarization Module](https://medium.com/saarthi-ai/who-spoke-when-build-your-own-speaker-diarization-module-from-scratch-e7d725ee279) by Rahul Saxena
+* [Speaker diarization on news video: Nemotron-3 vs pyannote vs DiariZen](https://everylocalai.com/benchmark/speaker-diarization-news-2026-10) by Every Local AI
 
 ### Video tutorials
 
