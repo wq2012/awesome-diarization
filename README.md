@@ -238,6 +238,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 | Deepgram | [Diarization API](https://developers.deepgram.com/docs/diarization) |
 | Speechmatics | [Speaker Diarization API](https://docs.speechmatics.com/speech-to-text/formatting) |
 | ElevenLabs | [Scribe Speech to Text](https://elevenlabs.io/speech-to-text) |
+| Modulate | [Velma Speech-to-Text API](https://docs.modulate.ai/api-reference/stt/batch) - cloud transcription API with optional speaker diarization |
 | Kviskr | [Kviskr](https://kviskr.no) - macOS app for local dictation and meeting transcription with speaker diarization using NB-Whisper |
 | diarize | [diarize.io](https://diarize.io) - hosted API and web app for speaker-labeled transcripts of YouTube and other video links |
 | Screenpipe | [Screenpipe](https://screenpipe.com) - Desktop screen/audio history with speaker diarization, local storage, and optional cloud transcription (source-available, Screenpipe Commercial License) |
